@@ -1,0 +1,84 @@
+---
+title: "Key takeaways"
+---
+The Open science umbrella
+Open science aims for a more transparent research process where the research output is digitally available for everyone.
+There are different concepts included in the open science movement such as open access, open data and open source.
+Open Access
+Some pros and cons of Open access as a model for research publishing.
+Different models for open access - what is green, gold and hybrid OA?
+Funding models and funding agency requirements for open access publishing.
+Open access publishing for KTH researchers - how to do it.
+Open Data
+Open data is data freely available in a digital format for everyone to use.
+Much, but not all, research data can be published or shared as open data.
+There are rapidly increasing collections of open data that can be used for different purposes.
+Open Source
+What is open source?Understand what open source means.
+How to choose an appropriate license for your own source code.
+Version control is a basic tool for keeping track of research code and data.
+In a larger collaborative research project: 
+A common code repository is a good tool for collaborative projects.
+Other aspects of Open Science
+Bibliometrics and research evaluation
+Both classic bibliometric measurements and altmetrics can be influenced by Open science practices.
+Some pitfalls and advantages of som of the commonly used indicators.
+Research data management - an overview
+Data management starts early on in the research process.
+Funders and publishers are increasing their requirements on research data management.
+Research data management requires planning in order to share your data at a correct access level both during active research and when you publish your results.
+FAIR - Findable, Accessible, Interoperable, Reusable
+Open data and FAIR data are related but not the same.
+FAIR stands for Findable, Accessible, Interoperable and Reusable.
+The first step towards FAIR data is applying appropriate metadata in connection to the data.
+The next step towards "FAIRify-ing" your data is to use data repositories or other data-sharing platforms for sharing data/metadata.
+Important metadata elements are persistent identifiers for the data object itself, persons and organisations and terminology that describe the content of the data object.
+Data management plans
+The purpose of a data management plan for a research project.
+How to create a data management plan or your own project.
+KTH have guidelines for managing research data. A data management plan is mandated by those guidelines.
+In a larger collaborative research project:
+It is important to share the data management plan with everyone involved within a project.
+Everyone involved in a project should also understand their roles and responsibilities for data management.
+Sharing data at different stages in the research data life cycle
+Good data management and knowing how to share what with whom builds trust and confidence among collaboration partners.
+Data sharing should be discussed early on in projects - both what data to share and when to share data.
+Before sharing data always consider if there are legal or ethical limitations on data sharing.
+Access to high quality data is valuable for both academic and industrial partners.
+Legal considerations
+Key legislation, policies and agreements relevant to your research data management.
+The KTH guidelines for managing research data contain key points to consider.
+Different legislation apply to different types of data. 
+Use your data management plan for reflections on what legal considerations are needed for your data at an early stage.
+In a collaborative research project:
+Conditions for data use, sharing and reuse must be adressed early (before or at the latest when any agreements are negotiated).
+Information security
+
+When planning for or working with research data management plan, the confidentiality levelof the data is an important consideration.
+The confidentiality level affects choices in all steps of data managements such as collecting, processing, storing and sharing data.
+The confidentiality level depends on the type of data and may change over time in the research data life cycle.
+It is also important to maintain data integrity and have a suitable level of data availability at different stages.
+Confidential data: Personal information an privacy
+The General Data Protection Regulation applies to any research processing personal information.
+Protecting the privacy of any individuals participating in research studies must be highest priority.
+Some categories of personal information is considered sensitive. For such data, extra security measures to ensure privacy are needed.
+Ethical review and approval is needed when research involves sensitive personal data.
+It is sometimes possible to anonymise or de-identify personal data, but this requires special care.
+Everyone involved in a project should be aware of the confidentiality level of the personal data, and know how to work with that type of information.
+Confidential data: Industrial collaborations
+Starting a collaboration should ideally include an early discussion of management of data and intellectual property.
+A formal agreement regulating who can do what with what data, known and understood by everyone involved can help avoid misunderstandings. Such an agreement should consider both data used for background information as well as the data created/collected during the project.
+Using open data sets can be beneficial both from an academic and industrial perspective.
+Long-term storage, publishing, archiving and preservation
+As a rule, research data should be archived for at least 10 years after the end of a research project.
+Archiving is achieved by following the archiving routines at each school. 
+Data that has considerable value for future research should be preserved.
+If data is non-confidential, publishing data is achieved by submitting the data to a high quality data repository.
+For confidential data, a description of the data may in many cases be published while access to the data itself is restricted.
+Some practical advice for data management
+Re-use of data
+There are different reasons for re-using data.
+Re-using data opens up new possibilities for data-driven research but there are also pitfalls.
+Licenses are important to clarify the conditions for re-use of data (and source code).
+High quality metadata is important to make data more re-usable.
+There are many resources available for finding useful data.

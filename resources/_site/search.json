@@ -1,0 +1,855 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Start",
+    "section": "",
+    "text": "This course is intended to give you a basic understanding and overview of important concepts about Open Science and Data management within a research setting.\n\n\nAfter taking this course you should:\n\nKnow about key concepts in open science\nBe able to write a data management plan\nUnderstand and apply FAIR principles for research data in your own field\n\nIf you are in a position where you also manage a larger collaborative project there is additional material that you can take part of. See more on the course in this introductory welcome video:\n\n\n\n\n\n\n\n\n\n\n\n\nThis course is part of a course package for researchers and PhD students at KTH. The course has some recurring headlines so that you can choose to go through the basics as an individual while also providing extra material that is good to know for those of you who work and manage larger collaborations. Larger collaboration often require more skills on data management where it might be important to take additional considerations into account.\nThe end of each section will refer to additional material for those of you interested in broadening your knowledge on the topic. On many pages you’ll find the following headlines:\n\n\n\nUnder the key takeaways headline you will find a short summary of the most important things covered for the topic of that page.\nConsiderations for collaborative projects For some topics, there are additional considerations when you are working in a larger project.\nIn these cases, we’ve added further learning material under this headline which is especially of importance when managing or coordinating larger collaborations, for instance a centre or a larger research project with many stakeholders etc.\n\n\n\nUnder this headline you will find tasks for your learning, such as reflections or a quiz. We recommend you to take notes from these reflections and bring them to group discussions arranged in connection to the course.\nThere will also be a final assignment that you should send in if you are a PhD student who want credits for this course. Even if you are not a PhD student getting credits, we encourage you to do these assignments as practicing and applying your knowledge will support your learning.\n\n\n\nUnder this headline we will provide references and links to more material if you want to dive even deeper into the topic.\nAt the bottom, we inserted a progress bar so that you can see how far you have proceeded with the course material.\nMaterial for the course is in general subject to a CC-BY 4.0 Links to an external site. license and developed mainly by Lina Andrén, Rosa Lönneborg and Marianne Loor with help from co-workers and of course the persons who kindly agreed to be interviewed and consented to share their knowledge and experience throughout the course. For the interview material though, please consider that it contains personal information.\nIf you have questions, you are always welcome to contact the research data team at researchdata@kth.se\nSo let’s get started! –&gt;",
+    "crumbs": [
+      "Course start page",
+      "Start"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#intended-learning-outcomes",
+    "href": "index.html#intended-learning-outcomes",
+    "title": "Start",
+    "section": "",
+    "text": "After taking this course you should:\n\nKnow about key concepts in open science\nBe able to write a data management plan\nUnderstand and apply FAIR principles for research data in your own field\n\nIf you are in a position where you also manage a larger collaborative project there is additional material that you can take part of. See more on the course in this introductory welcome video:",
+    "crumbs": [
+      "Course start page",
+      "Start"
+    ]
+  },
+  {
+    "objectID": "index.html#about-the-course",
+    "href": "index.html#about-the-course",
+    "title": "Start",
+    "section": "",
+    "text": "This course is part of a course package for researchers and PhD students at KTH. The course has some recurring headlines so that you can choose to go through the basics as an individual while also providing extra material that is good to know for those of you who work and manage larger collaborations. Larger collaboration often require more skills on data management where it might be important to take additional considerations into account.\nThe end of each section will refer to additional material for those of you interested in broadening your knowledge on the topic. On many pages you’ll find the following headlines:",
+    "crumbs": [
+      "Course start page",
+      "Start"
+    ]
+  },
+  {
+    "objectID": "index.html#key-takeaways",
+    "href": "index.html#key-takeaways",
+    "title": "Start",
+    "section": "",
+    "text": "Under the key takeaways headline you will find a short summary of the most important things covered for the topic of that page.\nConsiderations for collaborative projects For some topics, there are additional considerations when you are working in a larger project.\nIn these cases, we’ve added further learning material under this headline which is especially of importance when managing or coordinating larger collaborations, for instance a centre or a larger research project with many stakeholders etc.",
+    "crumbs": [
+      "Course start page",
+      "Start"
+    ]
+  },
+  {
+    "objectID": "index.html#assignment",
+    "href": "index.html#assignment",
+    "title": "Start",
+    "section": "",
+    "text": "Under this headline you will find tasks for your learning, such as reflections or a quiz. We recommend you to take notes from these reflections and bring them to group discussions arranged in connection to the course.\nThere will also be a final assignment that you should send in if you are a PhD student who want credits for this course. Even if you are not a PhD student getting credits, we encourage you to do these assignments as practicing and applying your knowledge will support your learning.",
+    "crumbs": [
+      "Course start page",
+      "Start"
+    ]
+  },
+  {
+    "objectID": "index.html#learn-more",
+    "href": "index.html#learn-more",
+    "title": "Start",
+    "section": "",
+    "text": "Under this headline we will provide references and links to more material if you want to dive even deeper into the topic.\nAt the bottom, we inserted a progress bar so that you can see how far you have proceeded with the course material.\nMaterial for the course is in general subject to a CC-BY 4.0 Links to an external site. license and developed mainly by Lina Andrén, Rosa Lönneborg and Marianne Loor with help from co-workers and of course the persons who kindly agreed to be interviewed and consented to share their knowledge and experience throughout the course. For the interview material though, please consider that it contains personal information.\nIf you have questions, you are always welcome to contact the research data team at researchdata@kth.se\nSo let’s get started! –&gt;",
+    "crumbs": [
+      "Course start page",
+      "Start"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/open-science-umbrella.html",
+    "href": "open-science/open-science-umbrella/open-science-umbrella.html",
+    "title": "The Open Science Umbrella",
+    "section": "",
+    "text": "Open science aims for a more transparent research process where the research output is digitally available for everyone.\nThere are different concepts included in the open science movement such as open access, open data and open source.",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/open-science-umbrella.html#reflection",
+    "href": "open-science/open-science-umbrella/open-science-umbrella.html#reflection",
+    "title": "The Open Science Umbrella",
+    "section": "Reflection",
+    "text": "Reflection\nReflect on the following questions and write down your answers.\n\nWhat is the impact of the discussion of open science in your field?\nDo you think your research field and/or your own research practice would benefit from incorporating some new open science practices? If so, why? What would be a simple first step? If not, why not?",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/open-access.html",
+    "href": "open-science/open-science-umbrella/open-access.html",
+    "title": "Open Access",
+    "section": "",
+    "text": "Some pros and cons of Open access as a model for research publishing.\nDifferent models for open access - what is green, gold and hybrid OA?\nFunding models and funding agency requirements for open access publishing.\nOpen access publishing for KTH researchers - how to do it.",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella",
+      "Open Access"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/open-methods.html",
+    "href": "open-science/open-science-umbrella/open-methods.html",
+    "title": "Open Methods",
+    "section": "",
+    "text": "ReuseCC BY 4.0",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "Open Science Umbrella",
+      "2.1.4 Open Methods\""
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/other-aspects.html",
+    "href": "open-science/open-science-umbrella/other-aspects.html",
+    "title": "Other aspects of Open Science",
+    "section": "",
+    "text": "The term “Open science” is used to refer to many different practices aiming to opening up research practice, methods and information. So in a way, rather than separating or sub-dividing it into different concepts it can be seen as a holistic approach to the scientific process that is seen in all communication of your research.\nThomas tells us more about other means of communicating science in an open way.\n\n\n\n\n\n\nSome other terms that involves an open science approach and are usually seen as part of the open science movement are:\n\n\nThe practice of involving non-researchers in the design, collection and/or analysis stages of research. An example is a research project with KTH professor Emma Lundberg where the researchers partnered with gaming companies to integrate analysis of protein localization from the Human Protein Atlas Cell Atlas images directly into a multiplayer online game. The resulting mini-game called “Project Discovery” was played by more than 300,000 gamers in the role of citizen scientists within EVE Online who together generated more than 33 million image classifications of protein subcellular localization, an achievement hailed as a milestone in citizen science [1].\n\n\n\nOpen educational resources (OER) are freely accessible, openly licensed text, media, and other digital assets that are useful for teaching, learning, and assessing as well as for research purposes (wikipedia Links to an external site.). Nowadays, there are many platforms that offer free material for learning in a vast amount of subjects and topics. Open educational resources come in many different formats, such as videos, texts or textbooks, web pages, apps and self-guided courses offered online. A good place to find open educational resources is the OER Commons. If you want general recommendations on OER practices, UNESCO has adopted recommendations on Open educational resources.\nOpen educational resources are being adapted as alternatives or complements to traditional textbooks, but there are challenges for teachers, as well as for students that are exploring on their own. In [1], the authors give an overview of some of the literature on adaption of OER in higher education.\nRelated to OER, and possibly more well-known, are MOOCs, Massive Open Online Courses which in some cases are Open educational resources, but more often are courses available for free to students, but not reusable and remittable by teachers and educators. The more well-known MOOC providers, like EDx and Coursera, nowadays also offer paid for certificates as add-ons to the free courses.\n\n\n\nAs an alternative to traditional peer review some journals and communities are trying more open peer review processes. Wikipedia defines open peer review as follows: “Open peer review may be defined as”any scholarly review mechanism providing disclosure of author and referee identities to one another at any point during the peer review or publication process”. Then reviewer’s identities may or may not be disclosed to the public.”",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella",
+      "Other aspects of Open Science"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/open-source.html",
+    "href": "open-science/open-science-umbrella/open-source.html",
+    "title": "Open Source",
+    "section": "",
+    "text": "Open source is source code openly shared that anyone is allowed to use\nHow to choose an appropriate license for your own source code.\nVersion control is a basic tool for keeping track of research code and data.\n\n\n\n\nA common code repository is a good tool for collaborative projects.",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella",
+      "Open Source"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/open-data.html",
+    "href": "open-science/open-science-umbrella/open-data.html",
+    "title": "Open Data",
+    "section": "",
+    "text": "Open data is data freely available in a digital format for everyone to use.\nMuch, but not all, research data can be published or shared as open data.\nThere are rapidly increasing collections of open data that can be used for different purposes.",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella",
+      "Open Data"
+    ]
+  },
+  {
+    "objectID": "open-science/bibliometrics-research-evaluation/bibliometrics-research-evaluation.html",
+    "href": "open-science/bibliometrics-research-evaluation/bibliometrics-research-evaluation.html",
+    "title": "Bibliometrics and Research Evaluation",
+    "section": "",
+    "text": "Both classic bibliometric measurements and altmetrics can be influenced by Open science practices.\nSome pitfalls and advantages of som of the commonly used indicators.",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "Bibliometrics and Research Evaluation"
+    ]
+  },
+  {
+    "objectID": "data-management/data-management.html",
+    "href": "data-management/data-management.html",
+    "title": "Research Data Management - section overview",
+    "section": "",
+    "text": "Key take aways\nData management starts early on in the research process. Funders and publishers are increasing their requirements on research data management. Research data management requires planning in order to share your data at a correct access level both during active research and when you publish your results. Managing your data in a research project is important and establishing good data management has many advantages. In this introductory video you can see how data management plays an important role early on in the research process and throughout the resaerch data life cycle.\nAn introduction to data management and the research data life cycle is given in the video below:\n\n\n\n\nOverview of the research data life cycle\n\n\nIn this part of the course on research data management we will go through important considerations in the different stages of the research data life cycle: from planning to active research, publishing your data and considerations for re-using data in the active research phase.\nStarting early on with planning for data management makes it easier to manage data in a structured way during active research. Consistent file naming conventions, keeping your data in good order and documenting how you process data already from start could make the research process more efficient, especially in larger projects managing large or complex datasets, as well as making it easier for others to understand how the research was performed. This increases transparency and reproducibility and simplifies sharing your data when you publish your results.\nFunding agencies increasingly require research data to be made accessible according to the FAIR-principles, which you will learn about on the next page.\n# Learn more\nThe Research Data Alliance and the associations’ different working groups have published many recommendations regarding research data management from various aspects:\nhttps://www.rd-alliance.org/recommendations-outputs\nScience Europe, an association of mainly European funding organisations have collected resources like practical guides on FAIR data management and data management plans:\nhttps://scienceeurope.org/our-resources/\n\n\n\n\nReuseCC BY 4.0",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Research Data Management - section overview"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/open-access.html#pay-to-publish-open-access-models",
+    "href": "open-science/open-science-umbrella/open-access.html#pay-to-publish-open-access-models",
+    "title": "Open Access",
+    "section": "Pay to publish open access models",
+    "text": "Pay to publish open access models\nTry SciFree, a service that can help you find journals with prepaid open access fees\nMore information about open access fees (gold or hybrid) from KTH library.\nGold open access - journals with only open access articles Gold open access journals are funded by so called article processing charges (APC) or open access fees, payed by the authors. If your article has a corresponding author who is employed by KTH, the open access fees can usually be handled by the university library.",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella",
+      "Open Access"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/open-access.html#hybrid-open-access---open-access-articles-in-subscription-journals",
+    "href": "open-science/open-science-umbrella/open-access.html#hybrid-open-access---open-access-articles-in-subscription-journals",
+    "title": "Open Access",
+    "section": "Hybrid open access - open access articles in subscription journals",
+    "text": "Hybrid open access - open access articles in subscription journals\nHybrid open access can be chosen in many traditional subscription journals. This business model means that authors pay for publishing open access in a traditional journal, making the article freely available even though the journal is a subscription journal. For many publishers, the KTH library will pay the open access fees for articles with a KTH employed corresponding author.",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella",
+      "Open Access"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/open-access.html#open-access-with-no-author-fees",
+    "href": "open-science/open-science-umbrella/open-access.html#open-access-with-no-author-fees",
+    "title": "Open Access",
+    "section": "Open access with no author fees",
+    "text": "Open access with no author fees\nHaving authors (or their universitites) pay a fee to publish open access can be a barrier making it hard for some researchers to publish their research. Paying for publishing also gives publishers an incentive to publish many articles, rather than high quality articles. But there are other open access options, not requiring the authors to pay to publish.",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella",
+      "Open Access"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/open-access.html#green-open-access---parallell-publishing-journal-articles-in-open-repositories",
+    "href": "open-science/open-science-umbrella/open-access.html#green-open-access---parallell-publishing-journal-articles-in-open-repositories",
+    "title": "Open Access",
+    "section": "Green open access - parallell publishing journal articles in open repositories",
+    "text": "Green open access - parallell publishing journal articles in open repositories\nGreen open access means publishing in a traditional journal that allows you to put a copy of you article in an open repository, like arxiv.org or DiVA.\nGreen open access is compliant with the open access requirements of most research funders. However, if the copyright of the article is signed over to a journal publisher, you need to find out if the publisher allows posting a copy in a repository. Check the journal web site or search the Sherpa Romeo database. In many cases the publisher’s conditions do allow open access publishing of some version of the manuscript. Some publishers allow only posting of preprints, i. e. the early versions of a manuscript from before the review process, and other publishers allow posting of post print manuscripts, i. e. a copy of the refereed and edited manuscript only differing from the printed copy by the absence of journal formatting and pagination. Most publishers don’t allow posting of the journal version of an article unless the article is gold or hybrid open access to start with (see below).",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella",
+      "Open Access"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/open-access.html#diamond-open-access",
+    "href": "open-science/open-science-umbrella/open-access.html#diamond-open-access",
+    "title": "Open Access",
+    "section": "Diamond Open Access",
+    "text": "Diamond Open Access\nA final option for open access publish available to some researchers, are journals that are open and free to read, but also don’t charge a publishing fee. Such journals are often referred to as diamond open access. They depend on external funding, either from academic institutions, research funders, or philanthropic initiatives. Some journals have membership programs for academic libraries, meaning that libraries don’t have to pay for a subscription, but it is still possible to contribute to relevant journals.",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella",
+      "Open Access"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/open-access.html#the-future-of-academic-publishing",
+    "href": "open-science/open-science-umbrella/open-access.html#the-future-of-academic-publishing",
+    "title": "Open Access",
+    "section": "The future of academic publishing",
+    "text": "The future of academic publishing\nIs open access the future of academic publishing? It’s hard to predict future developments, but some trends can be seen:\n\nmany major publishers are putting more emphasis on the pay to publish model, i. e. gold and hybrid open access.\nlarger publishing houses with a former emphasis on subscription journals have been acquiring newer OA publishers and made OA (hybrid options) available for their subscription journals.\nsome researchers are increasingly considering diamond open access options and the potential benefits for the research community.\nnew journals experiment with new business models, but also in some cases with new formats and more control for research communities and institutions.\nsome journals are opening up more of the editorial process, working with open peer review",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella",
+      "Open Access"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/open-data.html#reflection",
+    "href": "open-science/open-science-umbrella/open-data.html#reflection",
+    "title": "Open Data",
+    "section": "Reflection",
+    "text": "Reflection\nWrite down your answers to the questions below:\nDo you know of any open datasets that are used in your field?\nBy making their data open researchers can make it possible for others to verify their results. Do you think open data practices can improve the quality of research? Why/why not?\nWould you prefer to direct re-users of your own data to cite associated publications or citing the data itself? Why?\nLearn more [1] Piwowar HA, Vision TJ. Data reuse and the open data citation advantage. Huang X, ed. PeerJ. 2013;1:e175.\n[2] Leitner F, Bielza C, Hill SL, Larrañaga P. Data Publications Correlate with Citation Impact. Frontiers in Neuroscience. 2016;10:419.\nw3c standards for open data /web of data:\nhttps://www.w3.org/2013/data/ Links to an external site.\nFor sources of open data, there are links under the page -Reuse of data",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella",
+      "Open Data"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/open-source.html#in-a-larger-collaborative-research-project",
+    "href": "open-science/open-science-umbrella/open-source.html#in-a-larger-collaborative-research-project",
+    "title": "Open Source",
+    "section": "",
+    "text": "A common code repository is a good tool for collaborative projects.",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella",
+      "Open Source"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/open-source.html#reflection",
+    "href": "open-science/open-science-umbrella/open-source.html#reflection",
+    "title": "Open Source",
+    "section": "Reflection",
+    "text": "Reflection\nWrite down your answers to the following questions:\n\nDo you use any open source software? Which license is used for that software?\nDo you see any advantages to publishing the code generated by your research in an online repository like GitHub or GitLab?\nIf you look at code from different labs or research groups in your area, can you find common practices regarding licenses, repository usage and related issues?\n\nLearn more Code Refinery has resources on Open source and lessons on getting started with Git as well as workshops and events for PhD students/researchers:\nhttps://coderefinery.org/resources/\nCode Refinery also has a private code repository if you prefer to keep your code private until publishing\nhttps://coderefinery.org/repository/\nFor project run strictly within KTH there is also a private Github repository - you can read more about here:\nhttps://intra.kth.se/en/it/programvara-o-system/system/kth-github/kth-github-1.500062\nOtherwise it’s free to register an account at GitHub or GitLab or BitBucket to share code there. The Carpentries have lesson material to set-up your own git-repo and connect it to GitHub:\nhttps://swcarpentry.github.io/git-novice/\nThe GitHub open source guide\nhttps://opensource.guide/\nThe Zen of Scientific computing - don’t overdo things, but do enough to make your code useful.\nhttps://scicomp.aalto.fi/scicomp/zen-of-scicomp/",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella",
+      "Open Source"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/other-aspects.html#citizen-science",
+    "href": "open-science/open-science-umbrella/other-aspects.html#citizen-science",
+    "title": "Other aspects of Open Science",
+    "section": "",
+    "text": "The practice of involving non-researchers in the design, collection and/or analysis stages of research. An example is a research project with KTH professor Emma Lundberg where the researchers partnered with gaming companies to integrate analysis of protein localization from the Human Protein Atlas Cell Atlas images directly into a multiplayer online game. The resulting mini-game called “Project Discovery” was played by more than 300,000 gamers in the role of citizen scientists within EVE Online who together generated more than 33 million image classifications of protein subcellular localization, an achievement hailed as a milestone in citizen science [1].",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella",
+      "Other aspects of Open Science"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/other-aspects.html#open-educational-resources",
+    "href": "open-science/open-science-umbrella/other-aspects.html#open-educational-resources",
+    "title": "Other aspects of Open Science",
+    "section": "",
+    "text": "Open educational resources (OER) are freely accessible, openly licensed text, media, and other digital assets that are useful for teaching, learning, and assessing as well as for research purposes (wikipedia Links to an external site.). Nowadays, there are many platforms that offer free material for learning in a vast amount of subjects and topics. Open educational resources come in many different formats, such as videos, texts or textbooks, web pages, apps and self-guided courses offered online. A good place to find open educational resources is the OER Commons. If you want general recommendations on OER practices, UNESCO has adopted recommendations on Open educational resources.\nOpen educational resources are being adapted as alternatives or complements to traditional textbooks, but there are challenges for teachers, as well as for students that are exploring on their own. In [1], the authors give an overview of some of the literature on adaption of OER in higher education.\nRelated to OER, and possibly more well-known, are MOOCs, Massive Open Online Courses which in some cases are Open educational resources, but more often are courses available for free to students, but not reusable and remittable by teachers and educators. The more well-known MOOC providers, like EDx and Coursera, nowadays also offer paid for certificates as add-ons to the free courses.",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella",
+      "Other aspects of Open Science"
+    ]
+  },
+  {
+    "objectID": "open-science/open-science-umbrella/other-aspects.html#open-peer-review",
+    "href": "open-science/open-science-umbrella/other-aspects.html#open-peer-review",
+    "title": "Other aspects of Open Science",
+    "section": "",
+    "text": "As an alternative to traditional peer review some journals and communities are trying more open peer review processes. Wikipedia defines open peer review as follows: “Open peer review may be defined as”any scholarly review mechanism providing disclosure of author and referee identities to one another at any point during the peer review or publication process”. Then reviewer’s identities may or may not be disclosed to the public.”",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "The Open Science Umbrella",
+      "Other aspects of Open Science"
+    ]
+  },
+  {
+    "objectID": "open-science/bibliometrics-research-evaluation/bibliometrics-research-evaluation.html#bibliometrics",
+    "href": "open-science/bibliometrics-research-evaluation/bibliometrics-research-evaluation.html#bibliometrics",
+    "title": "Bibliometrics and Research Evaluation",
+    "section": "Bibliometrics",
+    "text": "Bibliometrics\nBibliometrics refers to the practice of applying statistical analysis to publications and citations. Bibliometric analysis is dependent on good sources of data. The most common database sources are Web of Science from Clarivate and Scopus from Elsevier. The KTH Bibliometrics team also uses data from the KTH publication repository DiVA to complement these sources.\n\nCounting publications\nThe most basic indicator is simply the number of publications. Using the number of publications as a performance indicator is usually combined with lists of publication outlets that are included in the count. An example of a publication count indicator is used in Norway. The Norwegian National Board of Scholarly Publishing (NPU) and NSD - Norwegian Centre for Research Data supply a list of scientific journals, series and publishers. Norwegian scholars receive funding based on their number of publications that appear in this list. At KTH, most weight has usually been given to publication changes covered by Web of Science. When comparing publication volumes between scientific fields, it is important to keep in mind that publication frequencies differ widely between fields. This must be kept in mind during all such evaluations.\n\n\nCounting citations\nThe most straightforward indicator of impact for research articles is the number of citations the article has received. However, since the citation density differs a lot between scientific fields and are dependent on the time since publication, citation counts are difficult to use for comparisons. Therefore, citation indicators that take field-normalization, time windows, and document types into account are often used. Field-normalisation means that the number of citation an item has recieved is normalised by the average number of citations for item in that field. Non field-normalised citation indicators cannot be compared between fields. Citation indicators based on different citation databases are also hard to compare, since they will normalize against different publication sets with different inclusion and exclusion criteria.\n\n\nh-index\nThe h-index is another common citation based metric. The h-index of a researcher is the largest number n such that the researcher has at least n publications that has been cited at least n times. The calculation of the h-index of a journal or a research group is similar. Proponents of the H-index highlight that it strikes a balance between publication volume and citation impact, but it has also been widely criticized for being easy to manipulate and dependent on age, subject field and data source, which makes it hard to use in practice. [1]\n\n\nJournal ranking\nMost journal rankings are based on the average number of citations an article in a journal receives. The most well-known journal ranking is the Journal Impact factor issued by Clarivate. In general, the ranking of the journal in which it is published is considered a poor measure of the quality of an article. Read more about the reasoning behind this in the San Fransisco Declaration of Research Assessment (DORA).",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "Bibliometrics and Research Evaluation"
+    ]
+  },
+  {
+    "objectID": "open-science/bibliometrics-research-evaluation/bibliometrics-research-evaluation.html#responsible-use-of-metrics",
+    "href": "open-science/bibliometrics-research-evaluation/bibliometrics-research-evaluation.html#responsible-use-of-metrics",
+    "title": "Bibliometrics and Research Evaluation",
+    "section": "Responsible use of metrics",
+    "text": "Responsible use of metrics\nWhen using numeric indicators such as citation counts for decision making, it is important to understand when, how and why they do and do not add useful information. Citations (or other indicators) do not perfectly count the quality of an article, and shouldn’t be used on small sample sizes. For a larger group of people, citation measures can be used for measuring research output, but for a small group such measures will be very unstable. Whenever you make comparisons between disciplines, you must make sure to use field-normalised data and that your analysis takes into account the limitations of such comparisons.\nIn general, bibliometrics is thought to be most useful at the macro-level, using aggregated data where expert evaluation of research is difficult or not feasible, while evaluation at the micro-level should be mostly based on expert evaluation through peer-review.",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "Bibliometrics and Research Evaluation"
+    ]
+  },
+  {
+    "objectID": "open-science/bibliometrics-research-evaluation/bibliometrics-research-evaluation.html#open-science-and-impact",
+    "href": "open-science/bibliometrics-research-evaluation/bibliometrics-research-evaluation.html#open-science-and-impact",
+    "title": "Bibliometrics and Research Evaluation",
+    "section": "Open science and impact",
+    "text": "Open science and impact\nDoes open science practices actually improve your impact? There are no clear answers to this, since it depends on what kind of impact your main goal is. It is clear however, that open access publishing will improve the availability of your results to anyone working outside the academic sector, and also to researchers in low and middle income countries (or anywhere where university library budgets limit their access to subscription materials). Traditional journals still have a longer history and have clear advantages when it comes to reputation and being familiar outlets, but most of them now offer options for open access as well. At the same time, fully open access journals are establishing themselves, and in a few years, more data on how open access affects citations and other bibliometric indicators can be expected to be available.\nOpen data and open source practices can also improve your impact when your data or your source code is reused. Different fields have adopted different strategies for how to cite data and code. Some practices lend themselves easily to measuring impact with bibliometric tools, such as publishing data articles in data journals (which can then be analysed with traditional and alternative metrics), or requesting that researchers who reuse your data or code cite your original publication.\nReflection What is considered important impact in your field of research? Do you have experience with bibliometric or altmetric evaluation? Write down what the pros and cons are, in your opinion.\nDo you believe open science practices influence the impact of research projects in your field?",
+    "crumbs": [
+      "Course start page",
+      "Open Science",
+      "Bibliometrics and Research Evaluation"
+    ]
+  },
+  {
+    "objectID": "key-takeaways.html",
+    "href": "key-takeaways.html",
+    "title": "Key takeaways",
+    "section": "",
+    "text": "The Open science umbrella Open science aims for a more transparent research process where the research output is digitally available for everyone. There are different concepts included in the open science movement such as open access, open data and open source. Open Access Some pros and cons of Open access as a model for research publishing. Different models for open access - what is green, gold and hybrid OA? Funding models and funding agency requirements for open access publishing. Open access publishing for KTH researchers - how to do it. Open Data Open data is data freely available in a digital format for everyone to use. Much, but not all, research data can be published or shared as open data. There are rapidly increasing collections of open data that can be used for different purposes. Open Source What is open source?Understand what open source means. How to choose an appropriate license for your own source code. Version control is a basic tool for keeping track of research code and data. In a larger collaborative research project: A common code repository is a good tool for collaborative projects. Other aspects of Open Science Bibliometrics and research evaluation Both classic bibliometric measurements and altmetrics can be influenced by Open science practices. Some pitfalls and advantages of som of the commonly used indicators. Research data management - an overview Data management starts early on in the research process. Funders and publishers are increasing their requirements on research data management. Research data management requires planning in order to share your data at a correct access level both during active research and when you publish your results. FAIR - Findable, Accessible, Interoperable, Reusable Open data and FAIR data are related but not the same. FAIR stands for Findable, Accessible, Interoperable and Reusable. The first step towards FAIR data is applying appropriate metadata in connection to the data. The next step towards “FAIRify-ing” your data is to use data repositories or other data-sharing platforms for sharing data/metadata. Important metadata elements are persistent identifiers for the data object itself, persons and organisations and terminology that describe the content of the data object. Data management plans The purpose of a data management plan for a research project. How to create a data management plan or your own project. KTH have guidelines for managing research data. A data management plan is mandated by those guidelines. In a larger collaborative research project: It is important to share the data management plan with everyone involved within a project. Everyone involved in a project should also understand their roles and responsibilities for data management. Sharing data at different stages in the research data life cycle Good data management and knowing how to share what with whom builds trust and confidence among collaboration partners. Data sharing should be discussed early on in projects - both what data to share and when to share data. Before sharing data always consider if there are legal or ethical limitations on data sharing. Access to high quality data is valuable for both academic and industrial partners. Legal considerations Key legislation, policies and agreements relevant to your research data management. The KTH guidelines for managing research data contain key points to consider. Different legislation apply to different types of data. Use your data management plan for reflections on what legal considerations are needed for your data at an early stage. In a collaborative research project: Conditions for data use, sharing and reuse must be adressed early (before or at the latest when any agreements are negotiated). Information security\nWhen planning for or working with research data management plan, the confidentiality levelof the data is an important consideration. The confidentiality level affects choices in all steps of data managements such as collecting, processing, storing and sharing data. The confidentiality level depends on the type of data and may change over time in the research data life cycle. It is also important to maintain data integrity and have a suitable level of data availability at different stages. Confidential data: Personal information an privacy The General Data Protection Regulation applies to any research processing personal information. Protecting the privacy of any individuals participating in research studies must be highest priority. Some categories of personal information is considered sensitive. For such data, extra security measures to ensure privacy are needed. Ethical review and approval is needed when research involves sensitive personal data. It is sometimes possible to anonymise or de-identify personal data, but this requires special care. Everyone involved in a project should be aware of the confidentiality level of the personal data, and know how to work with that type of information. Confidential data: Industrial collaborations Starting a collaboration should ideally include an early discussion of management of data and intellectual property. A formal agreement regulating who can do what with what data, known and understood by everyone involved can help avoid misunderstandings. Such an agreement should consider both data used for background information as well as the data created/collected during the project. Using open data sets can be beneficial both from an academic and industrial perspective. Long-term storage, publishing, archiving and preservation As a rule, research data should be archived for at least 10 years after the end of a research project. Archiving is achieved by following the archiving routines at each school. Data that has considerable value for future research should be preserved. If data is non-confidential, publishing data is achieved by submitting the data to a high quality data repository. For confidential data, a description of the data may in many cases be published while access to the data itself is restricted. Some practical advice for data management Re-use of data There are different reasons for re-using data. Re-using data opens up new possibilities for data-driven research but there are also pitfalls. Licenses are important to clarify the conditions for re-use of data (and source code). High quality metadata is important to make data more re-usable. There are many resources available for finding useful data.\n\n\n\nReuseCC BY 4.0"
+  },
+  {
+    "objectID": "data-management/reuse-of-data.html",
+    "href": "data-management/reuse-of-data.html",
+    "title": "Re-use of data",
+    "section": "",
+    "text": "There are different reasons for re-using data.\nRe-using data opens up new possibilities for data-driven research but there are also pitfalls.\nLicenses are important to clarify the conditions for re-use of data (and source code).\nHigh quality metadata is important to make data more re-usable.\nThere are many resources available for finding useful data.\n\nRe-using data has potential to be more efficient, since you don’t have to spend time collecting data yourself when someone else already has collected useful data. In practice though, the re-usability is very much dependent on data quality and data documentation. When re-using other peoples data, expect to spend some time to find out how it works and what you need to do to make it work for your purposes. However, the benefits of re-using data can be seen in many research fields both in areas that have been data-driven for a long period of time as well as fields where a data-driven approach is relatively new. Also other stakeholders may benefit from the re-use of data.\nRe-use of data also enables a more sustainable use of resources. Listen again to Anna and Jonas talk about how they see benefits of improved access to data in their fields of research.\n\n\nWhen data is shared in public data repositories this opens up possibilities to a more data-driven approach in research fields even if you do not produce all the data yourself. Let’s hear Johan Rung talk about data sharing in Covid-19 research and how the data centre at Scilifelab built a Swedish data portal for sharing Covid-19 related data, which has now evolved into the Swedish Pathogens Portal.\n\n\nMartin Isaksson shares another perspective on the value of open data-sets and re-use of data where already existing data makes it possible to avoid dealing with sensitive data:",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Re-use of data"
+    ]
+  },
+  {
+    "objectID": "data-management/data-management-plans/data-management-plans.html",
+    "href": "data-management/data-management-plans/data-management-plans.html",
+    "title": "Data Management Plans",
+    "section": "",
+    "text": "Why create a data management plan? How to create a data management plan for your own project. KTH has guidelines for managing research data. A data management plan is mandated by those guidelines. What is a Data Management plan?\n\n\nA data management plan (DMP) is a document where you outline all necessary details about how you will manage the data you use. Depending on the size and complexity of your project, you may need more or less details in your plan. DMP:s are perhaps most needed in larger projects with many collaborating partners.\n\n\nshare the plan with everyone involved. make sure everyone understand their roles and responsibilities.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Data Management Plans"
+    ]
+  },
+  {
+    "objectID": "data-management/FAIR.html",
+    "href": "data-management/FAIR.html",
+    "title": "FAIR - Findable, Interoperable, Accessible & Reusable",
+    "section": "",
+    "text": "Open data and FAIR data are related but not the same. FAIR stands for Findable, Accessible, Interoperable and Reusable. The first step towards FAIR data is applying appropriate metadata in connection to the data. The next step towards “FAIRify-ing” your data is to use data repositories or other data-sharing platforms for sharing data/metadata. Important metadata elements are persistent identifiers for the data object itself, persons and organisations and terminology that describe the content of the data object.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "FAIR - Findable, Interoperable, Accessible & Reusable"
+    ]
+  },
+  {
+    "objectID": "data-management/long-term-storage-publishing-preservation.html",
+    "href": "data-management/long-term-storage-publishing-preservation.html",
+    "title": "Long term storage, publishing, archiving and preservation",
+    "section": "",
+    "text": "As a rule, research data should be archived for at least 10 years after the end of a research project.\nArchiving is achieved by following the archiving routines at each school.\nData that has considerable value for future research should be preserved.\nIf data is non-confidential, publishing data is achieved by submitting the data to a high quality data repository.\nFor confidential data, a description of the data may in many cases be published while access to the data itself is restricted.\n\nThe concepts of long-term storage, publishing, archiving and preservation are sometimes confused with each other, but there are important differences between these terms and there are different objectives behind these processes. Publishing, archiving, preserving and storing data are processes that may overlap but they are not the same and are governed by different regulations and standards.\nThe person responsible for data management according to the data management plan carries the responsibility for research data during the active research project. After that, KTH has a responsibility for the data for at least ten years before a decision to delete it can be made (see archiving).\n\n\nThe objective for long-term storage is to maintain research data at a technical level so that it is readable and accessible even after the end of a research project for different stakeholders. Stakeholders can for instance be other researchers who want to reproduce your results or re-use your data in producing new research results or the general public. Long-term storage is not a formal and well-defined term, but is often used in many contexts. Both for publishing and archiving data you need to have an appropriate storage solution for the data that fulfills technical requirements to ensure proper back-up, good data availability and integrity as well as security measures appropriate to the level of confidentiality for the data during the time of storage.\n\n\n\nThe objective of publishing data is to make that data digitally available to the public according to the FAIR principles. If you use one of the KTH recommended data repositories for sharing and publish data, these data repositories provide long-term storage and data is published according to the FAIR principles. However, if you have confidential data that can not be shared fully open, contact researchdata@kth.se for advice before submitting data to a repository.\nFor many types of confidential data, a description of the data can be published at the SND data repository with information on how to proceed to get access to the actual data and if certain conditions apply before you may get access to the data. However, in some cases a risk assessment need to take place before submitting the metadata for some types of confidential data (see the page on information security).\nArchiving The objective of archiving is to make sure that the public is guaranteed the right of insight to research performed at KTH as part of the principle of Public Access to Information (Offentlighetsprincipen). So, archiving is a process ruled by the public right to access governmental information. Research at KTH falls under the principle of Public access to information regardless of research funding as described in the legal section.\nArchiving of governmental information is described in regulations from the Swedish National Archives (RA-FS 1999:1), (Swedish) What information from research that is needed to be archived at KTH is described in the KTH informationshanteringsplan (Swedish)\nIn short, information from research projects cannot be destroyed if there is no “gallringsbeslut” , i.e. a formal decision to delete the information. This decision is formally taken by the manager of each School, but the delegation order for this may vary at different schools. The decision to delete data cannot be made before at least 10 years has passed since the “economic end date” of the research project. As a rule of thumb, only data that has considerable value for future research should be preserved for longer time than that - see preservation.\nEach school is responsible for their own archiving process. Contact the record manager at your school for questions regarding archiving.\nPreservation The objective of preservation is to make it possible for coming generations to explore the 21th century. Not all research data needs to be preserved.\nIf there is a need for preservation of data, it’s important to structure and document the data in a way that makes it possible to understand how data was collected/created, what different variables mean and how different files relates to each other. This means you should express relationships and definitions between different data-sets. If possible, choose open standard formats before supplier-dependent formats.\nIf there is need for long term preservation, please contact e-arkivet@kth.se. Together we work through the Producer-Archive Interface Methodology Abstract Standard (PAIMAS) as part of the preserving process.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Long term storage, publishing, archiving and preservation"
+    ]
+  },
+  {
+    "objectID": "data-management/information-security/confidential-data-industry.html",
+    "href": "data-management/information-security/confidential-data-industry.html",
+    "title": "Confidential data - industrial collaborations",
+    "section": "",
+    "text": "Key takeaways - Starting a collaboration should ideally include an early discussion of management of data and intellectual property. - A formal agreement regulating who can do what with what data, known and understood by everyone involved can help avoid misunderstandings. - Such an agreement should consider both data used for background information as well as the data created/collected during the project. - Using open data-sets can be beneficial both from an academic and an industrial perspective.\nAnother reason for confidentiality is that you work closely with industrial collaboration partners that may have background information going in to the project, and this should be clearly described in an agreement as Malin told us. In agreements there may also be contractual clauses on who owns intellectual property and clauses that gives collaboration partners the right to decide if they want to submit a patent application within a certain time. Standard clauses in KTH agreements permits 30 days for industrial partners to respond if they want to submit a patent application + 90 days to draft and submit the application before you as academic researchers can submit and publish on the same results. Data that form the basis for a patentable invention may therefore be confidential for a limited time period. However, after this period you should be able to publish both data and results - with the exception where data is part of the background information. Read more about IP clauses in industrial collaboration in the IP course\nThere are ways of avoiding working with confidential data that may be sensitive from a business perspective by for instance using open data sets. Listen to Martin Isaksson talking about how terms for collaborations is regulated in agreements and the benefits of using open data sets to avoid issues with sensitive/confidential data.\n\n\nOften, you also produce or collect data during the active research phase within the research collaboration. Then it is good to consider the advice on background information, IP clauses and agreements that Malin talked about in the legal section. It is also good to describe who is responsible for different aspects of data management in the data management plan.\n\n\n\nReuseCC BY 4.0",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Information security",
+      "Confidential data - industrial collaborations"
+    ]
+  },
+  {
+    "objectID": "data-management/practical-advice.html",
+    "href": "data-management/practical-advice.html",
+    "title": "Some practical advice for data management",
+    "section": "",
+    "text": "We have put together a list of practical tips for keeping your data well-organized which makes it easier for both your future self and others to find and understand your data.\nWhen many people are involved in a project, it becomes more important to keep track of who is accessing the data and who is doing what with the data. A version control system such as Git makes it possible to keep track of changes, tracing back to an earlier version if someone makes mistakes. Make sure everyone working with data know about what’s decided on in the data management plan. Ideally, the whole research workflow should be reproducible.\nBut remember, there is a balance between documenting enough and over-documenting where the time spent on documentation may have been more well-spent on doing the actual research. So aim for good-enough, not perfection!",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Some practical advice for data management"
+    ]
+  },
+  {
+    "objectID": "data-management/information-security/confidential-data-privacy.html",
+    "href": "data-management/information-security/confidential-data-privacy.html",
+    "title": "Confidential data - Personal information and privacy",
+    "section": "",
+    "text": "The General Data Protection Regulation applies to any research processing personal information.\nProtecting the privacy of any individuals participating in research studies is of highest priority.\nSome categories of personal information is considered sensitive. For such data, extra security measures to ensure privacy are needed.\nEthical review and approval is needed when research involves sensitive personal data.\nIt is sometimes possible to anonymise or de-identify personal data, but this requires special care.\nEveryone involved in a project should be aware of the confidentiality level of the personal data, and know how to work with that type of information.\n\nWhen working in a research project where personal data is processed, it is important to consider how to protect the privacy of the individuals concerned. Any processing of personal data need a lawful basis and the processing should be registered at the KTH register of personal data processing\nNormally the lawful basis for processing personal information in research is public interest, but if you are unsure or want to know more, check out the KTH research data web pages or KTH pages on GDPR. If you conduct a study involving humans, or otherwise collect personal data, the persons whose information you process are called data subjects.\nIf you collect personal data, you will need to identify who will be the data controller for collection, storage and handling of the data.\nA breach of confidentiality where personal information can be accessed for people without permission may present a risk of serious harm to the data subject. Since that risk depends on the type of personal data and also if the people for instance belongs to a group with higher vulnerability it’s a good idea to assess the risk and confidentiality level needed for that data.\nSome personal information that already before was available to the public with the consent of the data subject hardly causes any harm and thus poses minimal risk if shared in a research project, whereas other information is more privacy sensitive. If there is high risk involved that concern data subject rights and freedoms you should conduct a Data Privacy Impact Assessment (DPIA) before processing any personal data. In that case, contact the Data Protection Officer at dataskyddsombud@kth.se before starting your study.\nIf the information can be connected to unique individuals and is considered to be sensitive you need to apply for an ethical approval before you conduct your research. Sensitive personal data is either belonging to the special categories of personal data according to article 9 in GDPR or concerns persons where informed consent from these individuals may be problematic, such as children. There is more information on research ethics and the ethical review process on the KTH research ethics page.\nThe Special categories of Sensitive personal data concerns an individual’s:\n\nEthnical origin\nPolitical views\nReligious or philosophical convictions\nMembership in a Union\nHealth\nSexual life or sexual orientation\nGenetic information\nBiometric data that specifically identifies a unique person\n\nIn the ethical approval it is important to ensure that you take appropriate measures that sufficiently minimize risks of data leakage. According to GDPR art. 32, appropriate technical and organizational measures to ensure a level of security appropriate to the risk should be taken. A more practical guide on what this means for you at KTH is under development. It is also important that all participants have given their informed consent to participate in the research study.\nIt is recommended to consider privacy-preserving methods in the study design so that you minimize risks. How to do that may differ depending on type of study, but here we illustrate that with a use case from a KTH research project.\n\n\nPahansen de Alwis, KTH researcher at the SCI school, has together with colleagues performed studies where occupants of marine crafts responded to a survey with questions about work exposure and health. Since health information is sensitive when it can be connected to unique individuals, it was important to carefully design the study in order to ensure preservation of privacy for individuals responding to the survey. It was also necessary to apply for an ethical approval. Pahansens advice to other researchers is to start early with the application for ethical approval and that it is really good with help from someone who has knowledge of the process when drafting the application. An overview of the study design can be seen in the illustration below.\n\n\n\nPreserve privacy by study design, part 1\n\n\n\n\n\nPreserve privacy by study design, part 2\n\n\nIn this study, the researchers were not aware of which individual who had what respondent-id and these individuals responded to the online survey on an encrypted network and data was stored encrypted as well.\nWhen publishing results, Pahansen et al also made sure to display results from the studies as aggregated % or ratios in different tables and figures in order not to make it possible to indirectly identify unique individuals from combination of traits (gender, weight, etc. ) via backdoor identification / re-identification [1], [2], [3]]. Adding more variables to your dataset will increase the probability for re-identification [4] .\n\n\n\nLet’s reiterate that it is highly recommended to share the data management plan with everyone in the project and make sure that everyone is informed on correct data management according to plan. The challenge of working with confidential personal data in collaborations is that the personal data is shared between different organizations. It is therefore important to have proper data processing agreements (DPA’s) in place before data is shared. Contact your local contract coordinator or the KTH legal counsel for advise and assistance with drafting such an agreement. If you also think your data could be “high risk” concerning privacy of individuals, you should make a data protection impact assessment early on in your process.\nYou can adopt different strategies for dealing with privacy-sensitive data. One option is to de-identify data before processing it (like in the Use case with Pahansen et al), thus avoiding collecting the information that identify the unique individuals.\nYou may also consider if you want to work according to a strategy of: “Bring data to compute” or “Bring compute to data” or “Streaming data on-demand for joint processing” . In the case of bringing data to compute, personal data is transferred from one stakeholder to another so there need to be a data processing agreement signed by both stakeholders. If one stakeholder only perform computation on encrypted data without access to the personal information kept within another organization, a data processing agreement should not be necessary. In the third case, transfer of personal information may have to be regulated in a non-standard agreement.\nWhich strategy that is best for the collaborative project depends on both the type and amount of data and the type of processing you plan for as well as resources and legal framework for different collaboration partners. So it is good to discuss strategy early on and draft a data management plan together.\nIn the interview with Martin Isaksson he mentions different privacy-preserving methods. In his research he works with user-generated privacy sensitive data from networks, information that is not appropriate to gather in one place - so here a strategy of bringing compute to data is more appropriate [5]. In the section on re-use of data, you can also listen to how Martin describes the use of open data-sets to avoid using real user data, thus avoiding both privacy-sensitive and business-sensitive data. On the next page you can read more on dealing with confidential data in industrial collaborations.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Information security",
+      "Confidential data - Personal information and privacy"
+    ]
+  },
+  {
+    "objectID": "data-management/information-security/information-security.html",
+    "href": "data-management/information-security/information-security.html",
+    "title": "Information security",
+    "section": "",
+    "text": "Key takeaways\n\nWhen planning for research and drafting a data management plan, the confidentiality level of the data is an important consideration.\nThe confidentiality level affects choices in all steps of data management such as collecting, processing, storing and sharing data.\nThe confidentiality level depends on the type of data and may change over time in the research data life cycle.\nIt is also important to maintain data integrity and have a suitable level of data availability at different stages.\n\nThere are some basic concepts that are good to be aware of when it comes to information security:\nConfidentiality - information is available for authorized individuals, entities, or processes, but not for unauthorized individuals, entities or processes.\nIntegrity - maintaining and assuring the accuracy and completeness of data over its entire lifecycle.\nAvailability - For any information system to serve its purpose, the information must be available when it is needed.\nHere we will focus on the information security classes for confidentiality, since this may differ depending on what data you have in your research process and it is important to consider the confidentiality early on. The integrity and availability are also important for the information and communication systems used, but will not be covered here. Availability is closely associated to the accessibility in FAIR.\nThere are many different information classification systems, but here we show the confidentiality levels according to the classification system of The Swedish Civil Contingencies Agency (MSB)\nIn this model the classes states a level of confidentiality that depends on how serious the consequences are if confidentiality is breached and information is subject to unauthorized access.\nClass 0 = no harm is caused. Such information can be publicly available, ex. published research results including public open data. Class 1 = may cause limited damage / economic loss. This information should be available to a well-defined limited number of people. Class 2 = may cause considerable damage / economic loss. Information should be available only to a well-defined limited number of people. Extra security measures may be needed. Class 3 = may cause serious to disastrous damage /economic loss. Information should be available only to a well-defined limited number of people. Extra security measures are needed. Go through the checklist with reasons for restricted access Download checklist with reasons for restricted access again and reflect on what confidentiality level that is appropriate for the data that you collect, store, analyse and share in your research project.\nThe confidentiality level affects all stages of data management so it affects how you set up routines and systems in the project. Information classification should be considered in the data management plan.\nOn the research data webpages, you can find some general advice when working with sensitive data, that is data where you need to think on maintaining restricted access to the data and considering security measures during your research activities.\nWhen working with data that is confidential or data that you think may become confidential when combined with other sources, it is advisable to perform a risk assessment to evaluate the degree of confidentiality and what measures to take to avoid the risk of unauthorized access to the data. If you are unsure on what degree of confidentiality and the risks for damage that exists when managing data in your project you can get help with performing a risk assessment by contacting the IT security management centre at KTH it-smc@kth.se\nAssignment Reflection Ask yourself:\nWhat data should be accessed When by Whom?\nWhen you have a clear picture of how to answer that, it is easier do decide on the classification level of confidentiality. This make it easier to make choices on how to collect, store, organize and share data in the active research phase and also if it is appropriate to share data as open data or with restricted access upon publication.\n\n\nLearn more\nRead more on information security at KTH (in Swedish)\nhttps://intra.kth.se/styrning/styrdokument/regler/webb-och-it-fragor-1.662166\nhttps://intra.kth.se/polopoly_fs/1.662187.1562824506!/informationsklassificering.pdf\n\n\n\n\nReuseCC BY 4.0",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Information security"
+    ]
+  },
+  {
+    "objectID": "data-management/legal-considerations.html",
+    "href": "data-management/legal-considerations.html",
+    "title": "Legal considerations",
+    "section": "",
+    "text": "Key legislation, policies and agreements relevant to your research data management.\nThe KTH guidelines for managing research data contain key points to consider.\nDifferent legislation apply to different types of data.\nUse your data management plan for pinning down what legal considerations are needed for your data at an early stage.\n\n\n\n\nConditions for data use, sharing and re-use must be adressed early (before or at the latest when any agreements are negotiated).\n\nMalin Koch, legal counsel tells more about legal considerations and agreements in this video:\n\n\nIn Sweden, the principle of access to public information is strong, meaning that the default is that information at a government body such as KTH should be available to the public if requested. There are, however, reasons for secrecy described in the legislation. In the KTH policy on the application of rules on public access and secrecy you can read more about applicable rules on public access and secrecy. For research, the most relevant legal frameworks for secrecy and reasons for confidentiality, what data to publish, responsibilities for data management etc. is described in the KTH guidelines for research data.\nAs Malin talked about, agreements are also important, and where you deal with personal information the General Data protection Regulation apply. You can read more about different types of agreements in the IP management course page on agreements and more on Data protection and privacy on the next page. If you have questions on contracts and agreements, you can contact your local contract coordinator. At this page on the intranet you’ll find contact information to the local contract coordinators and more information on agreements.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Legal considerations"
+    ]
+  },
+  {
+    "objectID": "data-management/data-management-plans/sharing-data-at-different-stages.html",
+    "href": "data-management/data-management-plans/sharing-data-at-different-stages.html",
+    "title": "Sharing data at different stages of the research data lifecycle",
+    "section": "",
+    "text": "Good data management and knowing how to share what with whom builds trust and confidence among collaboration partners.\nData sharing should be discussed early on in projects - both what data to share and when to share data.\nBefore sharing data always consider if there are legal or ethical limitations on data sharing.\nAccess to high quality data is valuable for both academic and industrial partners.\n\n\n\n\nIllustration of the research data lifecycle: Phase I - planning, Phase II - active research, Phase III - publishing\n\n\n\n\nYou may need to share data with other stakeholders at different stages of the research data life cycle. You may also want to set different access levels depending on both time and with whom data is shared. Data is increasingly considered a valuable asset, meaning that planing your data sharing strategically is becoming increasingly important.\n\n\nAt the planning stage, there is not yet much data to manage. However, by considering a few points early on, you can do some preparatory work in order to make things easier in the long run. For a start, consider the following points:\nYou may want to share ideas on how to conduct new research or have data from promising early test results to share with potential collaborators. There are some key legal aspects to consider at this stage, learn more about those in the section on legal considerations. At this stage, you may also be applying for external funding, meaning that you are sharing a research plan and possibly a first data management plan with a research funder. It is important to find out if the funder has any requirements for research data management. Example requirements would be writing a data management plan, or that you will share your data according to the FAIR principles. In the latter case, planning for data sharing has implications for how you organize and document your data from the start. Consider the costs for data management early, especially if one aim of the project is to share your data after the project. Some research funders can assign extra funding for data management if you apply for it. How to set up storage, communication, sharing and software for analysis. This depends on several factors such as type of data, confidentiality level, amount of data and what type of analysis to occur. Specific choices may differ a lot between different research projects, but try to describe costs, storage and how to share data in your data management plan.\n\n\n\nIn the active research phase you are collecting or producing data. At this point sharing of data usually occurs within a limited group of people involved in the project. Data could be transferred between different stakeholders or shared within a project platform with file storage access for everyone tied to the research project. There are also many facilities and centras where resources like expensive equipment generating data is used by many different research groups in different projects. Make sure that everyone involved knows about and agrees on where and how data can be shared.\n\n\n\nWhen publishing your results (including your data) your work will be easier if you have prepared data and metadata for sharing non-confidential data openly in a suitable data repository. Any confidential data should also be stored for at least ten years and documented so that the research process can be reviewed upon request. Learn more on what requests can be made, and when confidential data may or may not be made available on request in the section on legal considerations for data management.\nSharing the data that you base your results openly when publishing your results is, with a few exceptions, a good strategy to increase the impact of your research. By providing links from publication to data and from data to publication(s) you make it easier for readers of your publication to find and re-use your data. It also enables someone who wants to re-use your data to find, read and cite your publication.\nThe current recommendations for suitable data publishing channels can be found at the KTH Research Data Office web page on sharing data.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Data Management Plans",
+      "Sharing data at different stages of the research data lifecycle"
+    ]
+  },
+  {
+    "objectID": "data-management/data-management-plans/balancing-open-and-restricted-access.html",
+    "href": "data-management/data-management-plans/balancing-open-and-restricted-access.html",
+    "title": "Balancing between open and restricted access to data",
+    "section": "",
+    "text": "Data produced in publicly funded research should be made publicly available when results are published\nMuch data can be available as open data with unrestricted access\nSome data is confidential, and then restricted access is necessary\n\nIn many areas, most datasets contain information that can be shared fully open. There is also an increasing pressure on making data from publicly funded research publicly available in the latest research proposition as well as from many funding agencies.\nMeasurements of natural phenomena rarely contains confidential information and sharing this type of data upon publication benefit everyone in the scientific community. It makes it easier to reproduce your results, increase transparency and makes it easier to find and correct errors. Also re-use of associated data have in some research fields been associated with higher citation of publications [1, 2] so if you have data where no reasons for confidentiality exist, sharing it as open data lead to many benefits.\nHowever, there are several other types of data where you have to think more carefully before sharing since there may be reasons for confidentiality. If you’re not sure about your own data - go through this checklist before sharing the data fully open.\n\n\nIf the answer is yes to one or more of the following questions, there are reasons for more restricted access to your data\n\nDoes your data contain information subject to secrecy according to the Swedish Public Access to Information and Secrecy Act (2009:400)?\nDoes your data contain personal information or information that indirectly can identify unique individuals?\nDoes your data contain description of technology with []“dual use” (i.e. both civil and military use)(https://intra.kth.se/forskning/overgripande-stod/exportkontroll/exportkontroll-vid-samarbeten-med-kanslig-teknik-1.814215)?\nDo you collaborate with others that may claim ownership of data/ any intellectual property?\nDoes your data contain material that is protected by intellectual property rights?\nDoes your data form the basis of a patentable invention?\nDo you work in a highly competitive field where data is a valuable asset for negotiating new initiatives for collaboration?\nDo you use secondary data, i.e. data created/collected by someone else?\nDoes your data contain information that may be sensitive due to other ethical reasons?\nCan your data together with other public datasets be used for detailed profiling of individual human behavior?\n\nIf the answer is yes to one or more of the questions above, the data may be confidential to some degree at least at some period in the research process. In some cases, measures like de-identification/anonymization of personal information or delayed release after an embargo period still enable you to share data on an aggregated level or as partially open data or as open data after a limited period of time. You can download this checklist as a pdf-file Download checklist as a pdf-file as well.\nBut if the reasons for confidentiality remain, one possibility is to publish metadata describing how data was collected and under what conditions the data can be accessed. As an example, you should not submit data containing sensitive personal information to a public data repository, but you can publish metadata that described data collection and provide contact information if another researcher want to access the data, provided that the researcher has an ethical approval to use that data.\nThere’s more information on how to work with confidential data in the succeeding pages of the course.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Data Management Plans",
+      "Balancing between open and restricted access to data"
+    ]
+  },
+  {
+    "objectID": "course-summary.html",
+    "href": "course-summary.html",
+    "title": "Course summary",
+    "section": "",
+    "text": "Summing up the course\nWe hope that after going through this course you have learned enough to achieve the intended learning outcomes for the entire course.\nOn the first page of the course we introduced the intended learning outcomes, you can review them again below and we hope that you have learnt enough by now to achieve those.\n\n\nIntended learning outcomes\nAfter taking this course you should:\n\nKnow about key concepts in open science.\nBe able to write a data management plan.\nUnderstand and apply FAIR principles for research data in your own field.\n\nWe also pointed out key takeaways during the course. There’s a list of them after the course evaluation - please take a look to decide if you want to go back and go over any sections again. You are always welcome to send any questions to researchdata@kth.se.\nIf you could take time to submit a course evaluation we would be very happy to receive your feedback (please see the page following the final quiz).\nHope you have enjoyed the course!\n\n\n\n\nReuseCC BY 4.0",
+    "crumbs": [
+      "Course start page",
+      "Course summary"
+    ]
+  },
+  {
+    "objectID": "data-management/FAIR.html#accessible",
+    "href": "data-management/FAIR.html#accessible",
+    "title": "FAIR - Findable, Interoperable, Accessible & Reusable",
+    "section": "Accessible",
+    "text": "Accessible\nWhen data has been found, the user also needs to access it. Data can often be openly available for download, but even when this isn’t possible, data can still have a description of how to access it in the metadata even when direct access is restricted. This description could state that data can be made available under certain conditions, or who you need to contact to learn more. If the data is available for direct access, a clear description on how it can be re-used is important - so provide a clear usage license. The access information and formats of data should make it possible to access it even without purchasing specific software, so using non-proprietary file formats is preferred. For “big data” or streamed data, open API:s could be another alternative to make data more accessible.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "FAIR - Findable, Interoperable, Accessible & Reusable"
+    ]
+  },
+  {
+    "objectID": "data-management/FAIR.html#interoperable",
+    "href": "data-management/FAIR.html#interoperable",
+    "title": "FAIR - Findable, Interoperable, Accessible & Reusable",
+    "section": "Interoperable",
+    "text": "Interoperable\nInteroperability can be the most complicated aspect of FAIR. Interoperable data and metadata can be used by other applications and workflows. To achieve this, standardized models and vocabularies are used for knowledge representation. Depositing your data to a data repository with a good open API and metadata in standardized machine-readable formats is also a good way to achieve both a higher degree of interoperability and accessibility.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "FAIR - Findable, Interoperable, Accessible & Reusable"
+    ]
+  },
+  {
+    "objectID": "data-management/FAIR.html#reusable",
+    "href": "data-management/FAIR.html#reusable",
+    "title": "FAIR - Findable, Interoperable, Accessible & Reusable",
+    "section": "Reusable",
+    "text": "Reusable\nIf the data is directly available for download, there should be a clear usage license such as a creative commons license or a public domain mark that clearly informs the user if and how the data is allowed to be reused. In order to re-use data, the content of the data files and the process for collecting or producing data should be well-described. This descriptive metadata can be expressed in domain-specific controlled vocabularies/ontologies or as free-text terms.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "FAIR - Findable, Interoperable, Accessible & Reusable"
+    ]
+  },
+  {
+    "objectID": "data-management/FAIR.html#fair-data-sharing-and-research-impact",
+    "href": "data-management/FAIR.html#fair-data-sharing-and-research-impact",
+    "title": "FAIR - Findable, Interoperable, Accessible & Reusable",
+    "section": "FAIR data sharing and research impact",
+    "text": "FAIR data sharing and research impact\nBy sharing your data according to the FAIR principles you can increase the visibility of your research. In the Open Data part, Johan Rung, data manager at Scilifelab talked about how data sharing has a huge impact in life science research and how important it is to share data according to FAIR.\nJohan also emphasizes the importance of FAIR data for reproducibility and this is an important factor for quality in research. In the life sciences, research infrastructures for data sharing like NCBI and EBI have been around for a very long time, starting already in the 1970’s [5]. Later on we will also hear about examples from other research fields with other challenges and opportunities for data sharing.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "FAIR - Findable, Interoperable, Accessible & Reusable"
+    ]
+  },
+  {
+    "objectID": "data-management/FAIR.html#roles-and-responsibilities-in-fair-data-management",
+    "href": "data-management/FAIR.html#roles-and-responsibilities-in-fair-data-management",
+    "title": "FAIR - Findable, Interoperable, Accessible & Reusable",
+    "section": "Roles and responsibilities in FAIR data management",
+    "text": "Roles and responsibilities in FAIR data management\nKnowing what level of metadata that is sufficient for sharing data according to FAIR is not trivial. In some research communities there are well-established national and international infrastructures with support and tools to help you. In other research areas there might be less existing infrastructure. KTH as a university has a responsibility to provide all researchers with digital infrastructure and support for FAIR data management, while there is a responsibility for researchers to document and describe data sufficiently so that it is possible to share data in a way so it becomes findable and available for re-use. Read more in detail in the KTH Guidelines for research data\nYou can listen to Johan Rung again, now talking about metadata and the importance of describing data and the role of research infrastructure here:",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "FAIR - Findable, Interoperable, Accessible & Reusable"
+    ]
+  },
+  {
+    "objectID": "data-management/FAIR.html#considerations-when-working-in-a-larger-collaborative-project",
+    "href": "data-management/FAIR.html#considerations-when-working-in-a-larger-collaborative-project",
+    "title": "FAIR - Findable, Interoperable, Accessible & Reusable",
+    "section": "Considerations when working in a larger collaborative project",
+    "text": "Considerations when working in a larger collaborative project\nWhen working in a larger collaboration data management becomes more challenging since many people at different organisations contribute to collecting and analysis of data. In an international research project, legislation and policies may differ and different stakeholders in the project may have different goals.\nYou can again listen to Johan Rung talking about his experience of sharing data in large collaborations in an international setting in this video:\n\n\nSharing data should be discussed at an early stage between collaborators. There are many issues, such as what to share, when and where to share should be agreed between collaborators to avoid misunderstandings and make the process more streamlined. Common metadata standards and shared principles for documentation simplifies the work and by agreeing on those early on you will avoid extra work by adding it at later stages.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "FAIR - Findable, Interoperable, Accessible & Reusable"
+    ]
+  },
+  {
+    "objectID": "data-management/FAIR.html#reflection",
+    "href": "data-management/FAIR.html#reflection",
+    "title": "FAIR - Findable, Interoperable, Accessible & Reusable",
+    "section": "Reflection",
+    "text": "Reflection\nWhat would it require for you to share your data in line with the FAIR principles?\nDo you work in a research community where there already exists research infrastructure for sharing data according to FAIR? If not, are you aware of any initiatives within your research community or do you rely on local solutions for sharing data?",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "FAIR - Findable, Interoperable, Accessible & Reusable"
+    ]
+  },
+  {
+    "objectID": "data-management/FAIR.html#learn-more",
+    "href": "data-management/FAIR.html#learn-more",
+    "title": "FAIR - Findable, Interoperable, Accessible & Reusable",
+    "section": "Learn more",
+    "text": "Learn more\n\n\n\n[1] M. D. Wilkinson et al., ‘The FAIR Guiding Principles for scientific data management and stewardship’, Sci Data, vol. 3, no. 1, p. 160018, Dec. 2016, doi: 10.1038/sdata.2016.18 Links to an external site.. [2] The concepts of a FAIR data object: https://fairdo.org/ Links to an external site. [3] FAIR Data Maturity Model: specification and guidelines, RDA Alliance DOI: 10.15497/RDA0050 Links to an external site. [4] Images metadata standard https://iptc.org/standards/photo-metadata/iptc-standard/ Links to an external site. [5] Video container formats: https://en.wikipedia.org/wiki/Comparison_of_video_container_formats Links to an external site. [6] S. K. Burley et al. ‘RCSB Protein Data Bank: Sustaining a living digital data resource that enables breakthroughs in scientific research and biomedical education’ https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3331 Links to an external site.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "FAIR - Findable, Interoperable, Accessible & Reusable"
+    ]
+  },
+  {
+    "objectID": "data-management/FAIR.html#what-data-should-be-fair",
+    "href": "data-management/FAIR.html#what-data-should-be-fair",
+    "title": "FAIR - Findable, Interoperable, Accessible & Reusable",
+    "section": "What data should be FAIR?",
+    "text": "What data should be FAIR?\nWhether it is the original raw data, a processed later version of data or a complete version history of all processing made that should be made available vary depending on the type of data and the research field. As a rule of thumb, think about the re-usability aspect - what is needed in order for someone else to understand how data was collected/produced and re-use my data? If a signal-to-noise reducing process with well-known methods greatly reduce file sizes while maintaining important information, it is reasonable to save the resulting files after processing. In other cases, the raw data may contain essential information that cannot be discarded.\nYou can read and view more on what you can do in order to make your data more FAIR below.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "FAIR - Findable, Interoperable, Accessible & Reusable"
+    ]
+  },
+  {
+    "objectID": "data-management/data-management-plans/data-management-plans.html#in-a-larger-collaborative-research-project",
+    "href": "data-management/data-management-plans/data-management-plans.html#in-a-larger-collaborative-research-project",
+    "title": "Data Management Plans",
+    "section": "",
+    "text": "share the plan with everyone involved. make sure everyone understand their roles and responsibilities.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Data Management Plans"
+    ]
+  },
+  {
+    "objectID": "data-management/data-management-plans/sharing-data-at-different-stages.html#timing-and-strategy-when-sharing-data",
+    "href": "data-management/data-management-plans/sharing-data-at-different-stages.html#timing-and-strategy-when-sharing-data",
+    "title": "Sharing data at different stages of the research data lifecycle",
+    "section": "",
+    "text": "You may need to share data with other stakeholders at different stages of the research data life cycle. You may also want to set different access levels depending on both time and with whom data is shared. Data is increasingly considered a valuable asset, meaning that planing your data sharing strategically is becoming increasingly important.\n\n\nAt the planning stage, there is not yet much data to manage. However, by considering a few points early on, you can do some preparatory work in order to make things easier in the long run. For a start, consider the following points:\nYou may want to share ideas on how to conduct new research or have data from promising early test results to share with potential collaborators. There are some key legal aspects to consider at this stage, learn more about those in the section on legal considerations. At this stage, you may also be applying for external funding, meaning that you are sharing a research plan and possibly a first data management plan with a research funder. It is important to find out if the funder has any requirements for research data management. Example requirements would be writing a data management plan, or that you will share your data according to the FAIR principles. In the latter case, planning for data sharing has implications for how you organize and document your data from the start. Consider the costs for data management early, especially if one aim of the project is to share your data after the project. Some research funders can assign extra funding for data management if you apply for it. How to set up storage, communication, sharing and software for analysis. This depends on several factors such as type of data, confidentiality level, amount of data and what type of analysis to occur. Specific choices may differ a lot between different research projects, but try to describe costs, storage and how to share data in your data management plan.\n\n\n\nIn the active research phase you are collecting or producing data. At this point sharing of data usually occurs within a limited group of people involved in the project. Data could be transferred between different stakeholders or shared within a project platform with file storage access for everyone tied to the research project. There are also many facilities and centras where resources like expensive equipment generating data is used by many different research groups in different projects. Make sure that everyone involved knows about and agrees on where and how data can be shared.\n\n\n\nWhen publishing your results (including your data) your work will be easier if you have prepared data and metadata for sharing non-confidential data openly in a suitable data repository. Any confidential data should also be stored for at least ten years and documented so that the research process can be reviewed upon request. Learn more on what requests can be made, and when confidential data may or may not be made available on request in the section on legal considerations for data management.\nSharing the data that you base your results openly when publishing your results is, with a few exceptions, a good strategy to increase the impact of your research. By providing links from publication to data and from data to publication(s) you make it easier for readers of your publication to find and re-use your data. It also enables someone who wants to re-use your data to find, read and cite your publication.\nThe current recommendations for suitable data publishing channels can be found at the KTH Research Data Office web page on sharing data.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Data Management Plans",
+      "Sharing data at different stages of the research data lifecycle"
+    ]
+  },
+  {
+    "objectID": "data-management/data-management-plans/sharing-data-at-different-stages.html#systems-and-platforms",
+    "href": "data-management/data-management-plans/sharing-data-at-different-stages.html#systems-and-platforms",
+    "title": "Sharing data at different stages of the research data lifecycle",
+    "section": "Systems and platforms",
+    "text": "Systems and platforms\nDiscuss early on which platforms you will use for sharing data and ensure that the use of file-sharing platforms, software for analysis etc. is in compliance with guidelines for the organisations that participate in the collaboration. Data platforms/file sharing services should have good access control and an authentication process compliant with what’s required for the confidentiality level. You also need versioning of the files and the ability to trace who accessed what parts of the data. This functionality is often built into many modern file-sharing systems, but do check what can be done before deciding on systems and platforms. In case you are setting up your own systems or databases you have to consider this.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Data Management Plans",
+      "Sharing data at different stages of the research data lifecycle"
+    ]
+  },
+  {
+    "objectID": "data-management/data-management-plans/sharing-data-at-different-stages.html#automated-metadata-creation",
+    "href": "data-management/data-management-plans/sharing-data-at-different-stages.html#automated-metadata-creation",
+    "title": "Sharing data at different stages of the research data lifecycle",
+    "section": "Automated metadata creation",
+    "text": "Automated metadata creation\nIf data is collected in an automated fashion, you should also try to set-up automatic metadata creation. This will simplify the work preparing data for sharing. In projects producing or using large amounts or complex data, it is a good idea to assign a data steward or a data manager for the project. In other areas there might be a similar expertise tied to a common research infrastructure, centra or lab environment.\nRead more about the data steward role.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Data Management Plans",
+      "Sharing data at different stages of the research data lifecycle"
+    ]
+  },
+  {
+    "objectID": "data-management/data-management-plans/sharing-data-at-different-stages.html#trust-and-confidence-in-research-collaborations",
+    "href": "data-management/data-management-plans/sharing-data-at-different-stages.html#trust-and-confidence-in-research-collaborations",
+    "title": "Sharing data at different stages of the research data lifecycle",
+    "section": "Trust and confidence in research collaborations",
+    "text": "Trust and confidence in research collaborations\nListen to Jonas and Anna talk about the importance of good data management to gain trust and confidence within collaborative efforts:\n\n\nBefore publishing results and sharing data to the public, there might be clauses in collaboration agreements that allow collaboration partners to request for an embargo time before publication, so check that before publishing (see legal considerations and working with confidential data in industrial collaborations).",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Data Management Plans",
+      "Sharing data at different stages of the research data lifecycle"
+    ]
+  },
+  {
+    "objectID": "data-management/data-management-plans/balancing-open-and-restricted-access.html#checklist-with-reasons-for-restricted-access",
+    "href": "data-management/data-management-plans/balancing-open-and-restricted-access.html#checklist-with-reasons-for-restricted-access",
+    "title": "Balancing between open and restricted access to data",
+    "section": "",
+    "text": "If the answer is yes to one or more of the following questions, there are reasons for more restricted access to your data\n\nDoes your data contain information subject to secrecy according to the Swedish Public Access to Information and Secrecy Act (2009:400)?\nDoes your data contain personal information or information that indirectly can identify unique individuals?\nDoes your data contain description of technology with []“dual use” (i.e. both civil and military use)(https://intra.kth.se/forskning/overgripande-stod/exportkontroll/exportkontroll-vid-samarbeten-med-kanslig-teknik-1.814215)?\nDo you collaborate with others that may claim ownership of data/ any intellectual property?\nDoes your data contain material that is protected by intellectual property rights?\nDoes your data form the basis of a patentable invention?\nDo you work in a highly competitive field where data is a valuable asset for negotiating new initiatives for collaboration?\nDo you use secondary data, i.e. data created/collected by someone else?\nDoes your data contain information that may be sensitive due to other ethical reasons?\nCan your data together with other public datasets be used for detailed profiling of individual human behavior?\n\nIf the answer is yes to one or more of the questions above, the data may be confidential to some degree at least at some period in the research process. In some cases, measures like de-identification/anonymization of personal information or delayed release after an embargo period still enable you to share data on an aggregated level or as partially open data or as open data after a limited period of time. You can download this checklist as a pdf-file Download checklist as a pdf-file as well.\nBut if the reasons for confidentiality remain, one possibility is to publish metadata describing how data was collected and under what conditions the data can be accessed. As an example, you should not submit data containing sensitive personal information to a public data repository, but you can publish metadata that described data collection and provide contact information if another researcher want to access the data, provided that the researcher has an ethical approval to use that data.\nThere’s more information on how to work with confidential data in the succeeding pages of the course.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Data Management Plans",
+      "Balancing between open and restricted access to data"
+    ]
+  },
+  {
+    "objectID": "data-management/data-management-plans/balancing-open-and-restricted-access.html#reflection",
+    "href": "data-management/data-management-plans/balancing-open-and-restricted-access.html#reflection",
+    "title": "Balancing between open and restricted access to data",
+    "section": "Reflection",
+    "text": "Reflection\nWrite down your reflections on:\nWhat measures can you take when you publish your results in order to improve transparency and reproducibility even though not all data may be fully open to access?",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Data Management Plans",
+      "Balancing between open and restricted access to data"
+    ]
+  },
+  {
+    "objectID": "data-management/legal-considerations.html#in-a-collaborative-research-project",
+    "href": "data-management/legal-considerations.html#in-a-collaborative-research-project",
+    "title": "Legal considerations",
+    "section": "",
+    "text": "Conditions for data use, sharing and re-use must be adressed early (before or at the latest when any agreements are negotiated).\n\nMalin Koch, legal counsel tells more about legal considerations and agreements in this video:\n\n\nIn Sweden, the principle of access to public information is strong, meaning that the default is that information at a government body such as KTH should be available to the public if requested. There are, however, reasons for secrecy described in the legislation. In the KTH policy on the application of rules on public access and secrecy you can read more about applicable rules on public access and secrecy. For research, the most relevant legal frameworks for secrecy and reasons for confidentiality, what data to publish, responsibilities for data management etc. is described in the KTH guidelines for research data.\nAs Malin talked about, agreements are also important, and where you deal with personal information the General Data protection Regulation apply. You can read more about different types of agreements in the IP management course page on agreements and more on Data protection and privacy on the next page. If you have questions on contracts and agreements, you can contact your local contract coordinator. At this page on the intranet you’ll find contact information to the local contract coordinators and more information on agreements.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Legal considerations"
+    ]
+  },
+  {
+    "objectID": "data-management/information-security/confidential-data-privacy.html#use-case",
+    "href": "data-management/information-security/confidential-data-privacy.html#use-case",
+    "title": "Confidential data - Personal information and privacy",
+    "section": "",
+    "text": "Pahansen de Alwis, KTH researcher at the SCI school, has together with colleagues performed studies where occupants of marine crafts responded to a survey with questions about work exposure and health. Since health information is sensitive when it can be connected to unique individuals, it was important to carefully design the study in order to ensure preservation of privacy for individuals responding to the survey. It was also necessary to apply for an ethical approval. Pahansens advice to other researchers is to start early with the application for ethical approval and that it is really good with help from someone who has knowledge of the process when drafting the application. An overview of the study design can be seen in the illustration below.\n\n\n\nPreserve privacy by study design, part 1\n\n\n\n\n\nPreserve privacy by study design, part 2\n\n\nIn this study, the researchers were not aware of which individual who had what respondent-id and these individuals responded to the online survey on an encrypted network and data was stored encrypted as well.\nWhen publishing results, Pahansen et al also made sure to display results from the studies as aggregated % or ratios in different tables and figures in order not to make it possible to indirectly identify unique individuals from combination of traits (gender, weight, etc. ) via backdoor identification / re-identification [1], [2], [3]]. Adding more variables to your dataset will increase the probability for re-identification [4] .",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Information security",
+      "Confidential data - Personal information and privacy"
+    ]
+  },
+  {
+    "objectID": "data-management/information-security/confidential-data-privacy.html#considerations-for-collaboration-projects",
+    "href": "data-management/information-security/confidential-data-privacy.html#considerations-for-collaboration-projects",
+    "title": "Confidential data - Personal information and privacy",
+    "section": "",
+    "text": "Let’s reiterate that it is highly recommended to share the data management plan with everyone in the project and make sure that everyone is informed on correct data management according to plan. The challenge of working with confidential personal data in collaborations is that the personal data is shared between different organizations. It is therefore important to have proper data processing agreements (DPA’s) in place before data is shared. Contact your local contract coordinator or the KTH legal counsel for advise and assistance with drafting such an agreement. If you also think your data could be “high risk” concerning privacy of individuals, you should make a data protection impact assessment early on in your process.\nYou can adopt different strategies for dealing with privacy-sensitive data. One option is to de-identify data before processing it (like in the Use case with Pahansen et al), thus avoiding collecting the information that identify the unique individuals.\nYou may also consider if you want to work according to a strategy of: “Bring data to compute” or “Bring compute to data” or “Streaming data on-demand for joint processing” . In the case of bringing data to compute, personal data is transferred from one stakeholder to another so there need to be a data processing agreement signed by both stakeholders. If one stakeholder only perform computation on encrypted data without access to the personal information kept within another organization, a data processing agreement should not be necessary. In the third case, transfer of personal information may have to be regulated in a non-standard agreement.\nWhich strategy that is best for the collaborative project depends on both the type and amount of data and the type of processing you plan for as well as resources and legal framework for different collaboration partners. So it is good to discuss strategy early on and draft a data management plan together.\nIn the interview with Martin Isaksson he mentions different privacy-preserving methods. In his research he works with user-generated privacy sensitive data from networks, information that is not appropriate to gather in one place - so here a strategy of bringing compute to data is more appropriate [5]. In the section on re-use of data, you can also listen to how Martin describes the use of open data-sets to avoid using real user data, thus avoiding both privacy-sensitive and business-sensitive data. On the next page you can read more on dealing with confidential data in industrial collaborations.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Information security",
+      "Confidential data - Personal information and privacy"
+    ]
+  },
+  {
+    "objectID": "data-management/information-security/confidential-data-privacy.html#reflection",
+    "href": "data-management/information-security/confidential-data-privacy.html#reflection",
+    "title": "Confidential data - Personal information and privacy",
+    "section": "Reflection",
+    "text": "Reflection\nWhat type of data do you collect and analyze within your research?\nWill the research project collect personal data? Any of the special categories of personal data?\nWhat measures to protect privacy would be suitable in your case?\nWhat approach would be more suitable for your data - “bring data to compute”, “bring compute to data” or “streaming data for joint processing”?\nLearn more On anonymization of personal data: https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf\nOn research ethics and personal information: See chapter 5.3.5 in [6] https://codex.uu.se/Human+subjects+research/att-hantera-personuppgifter/\nOn research ethics and privacy in a digital world: https://plato.stanford.edu/entries/ethics-internet-research/\nRead more and view a template on data protection impact assessment at gdpr.eu:\nhttps://gdpr.eu/data-protection-impact-assessment-template/\nNordic E-infrastructure report on what is needed to share health data cross-border in Nordic countries [7]",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Information security",
+      "Confidential data - Personal information and privacy"
+    ]
+  },
+  {
+    "objectID": "data-management/long-term-storage-publishing-preservation.html#long-term-storage",
+    "href": "data-management/long-term-storage-publishing-preservation.html#long-term-storage",
+    "title": "Long term storage, publishing, archiving and preservation",
+    "section": "",
+    "text": "The objective for long-term storage is to maintain research data at a technical level so that it is readable and accessible even after the end of a research project for different stakeholders. Stakeholders can for instance be other researchers who want to reproduce your results or re-use your data in producing new research results or the general public. Long-term storage is not a formal and well-defined term, but is often used in many contexts. Both for publishing and archiving data you need to have an appropriate storage solution for the data that fulfills technical requirements to ensure proper back-up, good data availability and integrity as well as security measures appropriate to the level of confidentiality for the data during the time of storage.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Long term storage, publishing, archiving and preservation"
+    ]
+  },
+  {
+    "objectID": "data-management/long-term-storage-publishing-preservation.html#publishing",
+    "href": "data-management/long-term-storage-publishing-preservation.html#publishing",
+    "title": "Long term storage, publishing, archiving and preservation",
+    "section": "",
+    "text": "The objective of publishing data is to make that data digitally available to the public according to the FAIR principles. If you use one of the KTH recommended data repositories for sharing and publish data, these data repositories provide long-term storage and data is published according to the FAIR principles. However, if you have confidential data that can not be shared fully open, contact researchdata@kth.se for advice before submitting data to a repository.\nFor many types of confidential data, a description of the data can be published at the SND data repository with information on how to proceed to get access to the actual data and if certain conditions apply before you may get access to the data. However, in some cases a risk assessment need to take place before submitting the metadata for some types of confidential data (see the page on information security).\nArchiving The objective of archiving is to make sure that the public is guaranteed the right of insight to research performed at KTH as part of the principle of Public Access to Information (Offentlighetsprincipen). So, archiving is a process ruled by the public right to access governmental information. Research at KTH falls under the principle of Public access to information regardless of research funding as described in the legal section.\nArchiving of governmental information is described in regulations from the Swedish National Archives (RA-FS 1999:1), (Swedish) What information from research that is needed to be archived at KTH is described in the KTH informationshanteringsplan (Swedish)\nIn short, information from research projects cannot be destroyed if there is no “gallringsbeslut” , i.e. a formal decision to delete the information. This decision is formally taken by the manager of each School, but the delegation order for this may vary at different schools. The decision to delete data cannot be made before at least 10 years has passed since the “economic end date” of the research project. As a rule of thumb, only data that has considerable value for future research should be preserved for longer time than that - see preservation.\nEach school is responsible for their own archiving process. Contact the record manager at your school for questions regarding archiving.\nPreservation The objective of preservation is to make it possible for coming generations to explore the 21th century. Not all research data needs to be preserved.\nIf there is a need for preservation of data, it’s important to structure and document the data in a way that makes it possible to understand how data was collected/created, what different variables mean and how different files relates to each other. This means you should express relationships and definitions between different data-sets. If possible, choose open standard formats before supplier-dependent formats.\nIf there is need for long term preservation, please contact e-arkivet@kth.se. Together we work through the Producer-Archive Interface Methodology Abstract Standard (PAIMAS) as part of the preserving process.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Long term storage, publishing, archiving and preservation"
+    ]
+  },
+  {
+    "objectID": "data-management/long-term-storage-publishing-preservation.html#reflection",
+    "href": "data-management/long-term-storage-publishing-preservation.html#reflection",
+    "title": "Long term storage, publishing, archiving and preservation",
+    "section": "Reflection",
+    "text": "Reflection\nDoes any of your data have considerable value for future research?\nWhat do you need to do to preserve that data so that someone in the distant future could understand it?",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Long term storage, publishing, archiving and preservation"
+    ]
+  },
+  {
+    "objectID": "data-management/practical-advice.html#reflection",
+    "href": "data-management/practical-advice.html#reflection",
+    "title": "Some practical advice for data management",
+    "section": "Reflection",
+    "text": "Reflection\nWhat is a good-enough level of structuring, organizing and documenting data for your research?",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Some practical advice for data management"
+    ]
+  },
+  {
+    "objectID": "data-management/reuse-of-data.html#explore",
+    "href": "data-management/reuse-of-data.html#explore",
+    "title": "Re-use of data",
+    "section": "Explore",
+    "text": "Explore\nCan you find data within your own research area that may be useful for you? Browse for subject specific datarepositories at Re3data.org Links to an external site. or search in a broad generic dataportal or other sources for data listed under data sources below the learn more section.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Re-use of data"
+    ]
+  },
+  {
+    "objectID": "data-management/reuse-of-data.html#reflection",
+    "href": "data-management/reuse-of-data.html#reflection",
+    "title": "Re-use of data",
+    "section": "Reflection",
+    "text": "Reflection\nRead the essay On the Reuse of scientific data [1] - who would you think as a re-user of your data and for what purpose - reproducibility or integration? Do the different purposes require different quality requirements/standards?\nWould you consider re-using someone else’s data? What would you need in order to do that?\nLearn more [1] I. V. Pasquetto, B. M. Randles, and C. L. Borgman, ‘On the Reuse of Scientific Data’, Data Science Journal, vol. 16, p. 8, Mar. 2017, doi: 10.5334/dsj-2017-008 The source code repository for the Swedish covid-19 data portal: https://github.com/ScilifelabDataCentre/covid-portal/tree/master Links to an external site. Sources for open data-sets: Scientific data repositories, browse by subject, type etc: Re3data.org Links to an external site.\nSources for Open data sets and API:s at KTH\nhttps://www.adeye.se/open-kth Links to an external site.\nhttps://zenodo.org/communities/kth Links to an external site.\nhttps://www.kth.se/en/api/anvand-data-fran-kth-1.57059\nBroad generic dataportals , search engines and databases:\nZenodo Links to an external site.\nGoogle dataset search Links to an external site.\nEU Open data portal Links to an external site.\nSND Swedish National Dataservice data catalogue Links to an external site.\nDatahub Links to an external site.\nDatasets mentioned by Martin Isaksson are available here:\nhttps://datasetsearch.research.google.com/ Links to an external site.\nhttps://www.kaggle.com/datasets Links to an external site.\nhttps://www.openml.org/search?type=data Links to an external site.\nsee API here: https://openml.github.io/openml-python/develop/examples/30_extended/datasets_tutorial.html Links to an external site.)\nhttps://www.tensorflow.org/datasets Links to an external site.\nhttps://pytorch.org/docs/stable/torchvision/datasets.html Links to an external site.",
+    "crumbs": [
+      "Course start page",
+      "Research Data Management",
+      "Re-use of data"
+    ]
+  }
+]

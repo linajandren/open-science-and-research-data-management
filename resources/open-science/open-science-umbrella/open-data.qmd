@@ -1,0 +1,58 @@
+---
+title: "Open Data"
+---
+
+# Key takeaways
+- Open data is data freely available in a digital format for everyone to use.
+- Much, but not all, research data can be published or shared as open data.
+- There are rapidly increasing collections of open data that can be used for different purposes.
+
+# Open Data 
+Open data means that data is shared openly in a way that lets it be freely re-used, modified and shared. By sharing your data openly, data can be re-used by others and thereby saving them the effort of collecting new data at the same time as re-use of your data increases the impact of your research and tends to increase citation rates for publications @piwowardatareuseopen2013, @leitnerdatapublicationscorrelate2016.
+
+Some data may be subjected to copyright, and if that material (such as images, videos etc.) is created within the research process it's the creator(s) that own(s) the copyright and decide under what license to share that. However, in line with the principle that results from publicly funded research should be publicly available and the good academic tradition to cite your sources, a CC-By license can be recommended. A CC-By license provides re-users of the data with information that they are allowed to use, edit and share the data freely as long as they cite the source of the data. The requirement to cite the creator of the data is in line with the principle of citing your sources in academic research and is also important for improving impact by encouraging citing of data. You can read more about Creative Commons licenses at the [Creative Commons website](https://creativecommons.org/).
+
+Other arguments for open sharing of research data relate to transparency and reproducibility of the research process. Access to data enables other scientists to reproduce experiments and validate results.
+
+Another argument for Open data is that data produced at universities are also governmental data. The Public sector information (PSI)-directive in the EU states that governmental data should be digitally available as open data when possible. There are now increasing amounts of governmental data digitally accessible as open data, see for instance the [Swedish open data portal for governmental data](https://www.dataportal.se/) For research data, funding agencies and other stakeholders tend to require FAIR data sharing rather than open data, where FAIR take legal, ethical and commercial restrictions into account. You will learn more about that in the section about FAIR.
+
+All data cannot and should not be shared openly without restrictions. Data that relates to individuals or co-created with industry partners are examples of data where you need to tread carefully. An often repeated phrase is that data should be *as open as possible, but as closed as necessary*. However, sharing data gives many benefits such as new opportunities for data-driven research. Learn more by listening to Johan talk about the impact of data sharing in life science.
+
+<div style="max-width:650px"><div style="position:relative;padding-bottom:56.307692307692%"><iframe id="kmsembed-0_fd3e8ywp" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_fd3e8ywp/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH Open Science Film 8.1 Interview with Johan Rung" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div></div>
+
+In addition to the above mentioned reasons for sharing data, Johan also mentions trust as an important factor. He also mentions the FAIR principles that will be explained in more detail in the section about data management- FAIR data.
+
+Sharing your data as open data does have many benefits - but not all research fields have the same history and access to infrastructure with subject- and data-type specific repositories for sharing data as within life science. Read the story from a PhD student in environmental studies  and his experience with preparing and sharing open data in his field of research.
+
+# The experience of open science practices and sharing data from a PhD student’s perspective
+[Daniel Ddiba](https://www.kth.se/profile/ddiba)  is a PhD student in Sustainable Development and Engineering affiliated to the Department of Sustainable Development, Environmental Science and Engineering (SEED) and the Stockholm Environment Institute. His research is mainly in the area of resource recovery in sanitation and waste management.
+
+Daniel has published some papers with open access and had a positive experience of the process where the article processing charge was paid for by KTH and see many benefits with open access.
+
+As part of his work, Daniel participates in a practitioners’ network called the Sustainable Sanitation Alliance. This is a big network of over 13000 people who work in the sanitation sector from all around the world. In the network, there is an online forum with discussions about emerging trends and issues within the sanitation sector. Many researchers, including Daniel, use that platform to discuss their research. Since many stakeholders in the network are outside academia, it is very beneficial if the research is published open access because it enables researchers to share published research that all stakeholders can access.
+
+When it comes to open data, this is a relatively new field for Daniel but just like with open access, the idea of having open access to data is appealing and he sees several benefits such as having his work available to be scrutinized by others in the academic community and to receive critical feedback, and it also to opens up new opportunities for collaboration. He recently saw an example within his field where data from one research group was being re-used by another research group, quickly resulting in a new publication.
+
+That inspired him to recently publish his first open data set himself during the process of submitting a paper. He found that submitting data was a relatively simple process. He also had a good experience of receiving feedback on file formats and other improvements to make the data more re-usable from the research data team at KTH. You can look at that data-set and other data-sets as well as submitting your own data-sets at the [KTH-Zenodo community](https://zenodo.org/communities/kth). 
+Note that confidential data can't be shared as fully open data. In the case where you have such data, the [Swedish National Data (SND) data repository](https://snd.gu.se/en/describe-and-share-data) is a better alternative. There you can describe and share data with restricted access while KTH keep the responsibility for data and may permit access according to certain conditions. There are also many other research data repositories that can be found through [re3data.org](https://www.re3data.org/). 
+
+# Assignment
+## Reflection
+Write down your answers to the questions below:
+
+Do you know of any open datasets that are used in your field?
+
+By making their data open researchers can make it possible for others to verify their results. Do you think open data practices can improve the quality of research? Why/why not?
+
+Would you prefer to direct re-users of your own data to cite associated publications or citing the data itself? Why?
+
+Learn more
+[1] Piwowar HA, Vision TJ. Data reuse and the open data citation advantage. Huang X, ed. PeerJ. 2013;1:e175.
+
+[2] Leitner F, Bielza C, Hill SL, Larrañaga P. Data Publications Correlate with Citation Impact. Frontiers in Neuroscience. 2016;10:419.
+
+w3c standards for open data /web of data:
+
+https://www.w3.org/2013/data/ Links to an external site.
+
+For sources of open data, there are links under the page -Reuse of data

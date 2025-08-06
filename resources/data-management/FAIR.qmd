@@ -1,0 +1,115 @@
+---
+title: "FAIR - Findable, Interoperable, Accessible & Reusable"
+nocite: |
+    @fairdigitalobjects
+---
+
+# Key takeaways
+
+Open data and FAIR data are related but not the same.
+FAIR stands for Findable, Accessible, Interoperable and Reusable.
+The first step towards FAIR data is applying appropriate metadata in connection to the data.
+The next step towards "FAIRify-ing" your data is to use data repositories or other data-sharing platforms for sharing data/metadata.
+Important metadata elements are persistent identifiers for the data object itself, persons and organisations and terminology that describe the content of the data object.
+
+# What is FAIR data?
+The FAIR principles state that research data should be:
+
+- Findable, 
+- Accessible,
+- Interoperable, and
+- Reusable.
+
+The FAIR principles were defined by Wilkinson et al. @wilkinsonfairguidingprinciples2016. The definition used in @wilkinsonfairguidingprinciples2016 is, however, fairly technical. In this video, Rosa provides an overview of what FAIR means and the difference between FAIR and Open data.
+
+<iframe id="kmsembed-0_ihsdvri9" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_ihsdvri9/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH Open Science Film 4 FAIR data vs Open data"></iframe>
+
+It is important to distinguish between FAIR data and Open data. As an example, a file with the filename 43311344.dat can be uploaded to a web-site and counted as open data. However, there is no context provided about what the file contains and no metadata that makes it possible to find that specific file so the degree of FAIR is very low, close to zero.
+
+Another data-set may have restricted access due to legal or ethical reasons but is well-described, deposited in a high-quality repository with a clear usage license and information on under what conditions access can be granted. So although it is not open data, one could argue that the degree of FAIR is higher in this latter example. There are also some rare cases where it is not appropriate to publish even a description of the data due to strict secrecy.
+
+By now, some of you might have become annoyed by us being sloppy by not providing a formal definition of the term "data". Data can be defined in a few different ways, and which definition works best varies between different research fields.
+
+::: {.callout-note title="[Definitions of data from Merriam Webster](https://www.merriam-webster.com/dictionary/data):"}
+
+
+:::
+
+A digital data object can be seen as a package of information in the form of data-files, executable source code, published results etc. that is wrapped in appropriate metadata to be FAIR @fairdatamaturitymodelworkinggroupfairdatamaturity2020. There are different indicators to measure the degree of FAIR @fairdatamaturitymodelworkinggroupfairdatamaturity2020 and what degree of FAIR considered to be good enough may vary between different research communities.
+
+[The KTH guidelines for managing research data](https://intra.kth.se/polopoly_fs/1.1037531.1608134528!/Guidelines-on-managing-research-data.pdf) supports the FAIR principles and you should make the data underlying your published results publicly available to the extent possible with regards to legal,  ethical and possible commercial constraints.
+
+## What data should be FAIR?
+
+Whether it is the original raw data, a processed later version of data or a complete version history of all processing made that should be made available vary depending on the type of data and the research field. As a rule of thumb, think about the re-usability aspect - what is needed in order for someone else to understand how data was collected/produced and re-use my data? If a signal-to-noise reducing process with well-known methods greatly reduce file sizes while maintaining important information, it is reasonable to save the resulting files after processing. In other cases, the raw data may contain essential information that cannot be discarded.
+
+You can read and view more on what you can do in order to make your data more FAIR below.
+
+# Findable
+
+In order for someone to reuse your data, your data needs to be found. Therefore, metadata and data must be in a place where someone looking for data can find it and the internet is a good place for that. Metadata has to be formatted and published in a way that makes it possible for search tools to both find it and find out if the data is relevant for a specific search query. This could mean making sure that the data is indexed in relevant search engines, providing [persistent identifiers](https://www.openaire.eu/what-is-a-persistent-identifier) with the metadata, describing the data content and ensure there is a link between publications and underlying data and if there is, also source code.
+
+## Accessible
+
+When data has been found, the user also needs to access it. Data can often be openly available for download, but even when this isn't possible, data can still have a description of how to access it in the metadata even when direct access is restricted. This description could state that data can be made available under certain conditions, or who you need to contact to learn more. If the data is available for direct access, a clear description on how it can be re-used is important - so provide a clear usage license. The access information and formats of data should make it possible to access it even without purchasing specific software, so using non-proprietary file formats is preferred. For "big data" or streamed data, open API:s could be another alternative to make data more accessible.
+
+## Interoperable
+
+Interoperability can be the most complicated aspect of FAIR. Interoperable data and metadata can be used by other applications and workflows. To achieve this, standardized models and vocabularies are used for knowledge representation. Depositing your data to a data repository with a good open API and metadata in standardized machine-readable formats is also a good way to achieve both a  higher degree of interoperability and accessibility.
+
+## Reusable
+
+If the data is directly available for download, there should be a clear usage license such as a creative commons license or a public domain mark that clearly informs the user if and how the data is allowed to be reused. In order to re-use data, the content of the data files and the process for collecting or producing data should be well-described. This descriptive metadata can be expressed in domain-specific controlled vocabularies/ontologies or as free-text terms.
+
+# Metadata - data about data
+
+As you can see, metadata is important and necessary for data to be reasonably FAIR - in this video we further explain what metadata is and what metadata elements you need to make research data reasonably FAIR.
+
+<iframe id="kmsembed-0_258m2j6s" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_258m2j6s/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH Open Science Film 4.1 Metadata"></iframe>
+
+In many research fields, there are ontologies and controlled vocabularies that you can use to describe your data in a more standardized way. For some types of data such as images, video and sound, there are file formats with standards or containerization that automatically embed parts of the more technical metadata in the file itself @iptcphotometadata, @comparisonvideocontainer2025.
+
+If you want to browse for metadata-standards and ontologies within your research area there are resources like [FAIR Sharing](https://fairsharing.org/standards/) and this list of standards from [Research data alliance](http://rd-alliance.github.io/metadata-directory/standards/) that you can use to find useful standards and vocabularies in your own research area.
+
+## FAIR data sharing and research impact
+
+By sharing your data according to the FAIR principles you can increase the visibility of your research. In the Open Data part, Johan Rung, data manager at Scilifelab talked about how data sharing has a huge impact in life science research and how important it is to share data according to FAIR.
+
+Johan also emphasizes the importance of FAIR data for reproducibility and this is an important factor for quality in research. In the life sciences, research infrastructures for data sharing like [NCBI](https://www.ncbi.nlm.nih.gov/) and [EBI](https://www.ebi.ac.uk/) have been around for a very long time, starting already in the 1970's @burleyrcsbproteindata2018. Later on we will also hear about examples from other research fields with other challenges and opportunities for data sharing.
+
+## Roles and responsibilities in FAIR data management
+
+Knowing what level of metadata that is sufficient for sharing data according to FAIR is not trivial. In some research communities there are well-established national and international infrastructures with support and tools to help you. In other research areas there might be less existing infrastructure. KTH as a university has a responsibility to provide all researchers with digital infrastructure and support for FAIR data management, while there is a responsibility for researchers to document and describe data sufficiently so that it is possible to share data in a way so it becomes findable and available for re-use. Read more in detail in the [KTH Guidelines for research data](https://intra.kth.se/polopoly_fs/1.1037531.1608134528!/Guidelines-on-managing-research-data.pdf)
+
+You can listen to Johan Rung again, now talking about metadata and the importance of describing data and the role of research infrastructure here:
+
+<iframe id="kmsembed-0_kadl0iir" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_kadl0iir/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH Open Science Film 8.2 interview part II with Johan Rung"></iframe>
+
+## Considerations when working in a larger collaborative project
+
+When working in a larger collaboration data management becomes more challenging since many people at different organisations contribute to collecting and analysis of data. In an international research project, legislation and policies may differ and different stakeholders in the project may have different goals.
+
+You can again listen to Johan Rung talking about his experience of sharing data in large collaborations in an international setting in this video:
+
+<iframe id="kmsembed-0_n9x2j4ce" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_n9x2j4ce/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH Open Science Film 8.3 Interview with Johan Rung part III"></iframe>
+
+Sharing data should be discussed at an early stage between collaborators. There are many issues, such as what to share, when and where to share should be agreed between collaborators to avoid misunderstandings and make the process more streamlined. Common metadata standards and shared principles for documentation simplifies the work and by agreeing on those early on you will avoid extra work by adding it at later stages.
+
+# Assignments
+## Reflection
+
+What would it require for you to share your data in line with the FAIR principles?
+
+Do you work in a research community where there already exists research infrastructure for sharing data according to FAIR? If not, are you aware of any initiatives within your research community or do you rely on local solutions for sharing data?
+
+## Learn more
+
+:::{#ref} 
+:::
+[1] M. D. Wilkinson et al., ‘The FAIR Guiding Principles for scientific data management and stewardship’, Sci Data, vol. 3, no. 1, p. 160018, Dec. 2016, doi: 10.1038/sdata.2016.18 Links to an external site..
+[2] The concepts of a FAIR data object:
+https://fairdo.org/ Links to an external site.
+[3] FAIR Data Maturity Model: specification and guidelines, RDA Alliance DOI: 10.15497/RDA0050 Links to an external site.
+[4] Images metadata standard https://iptc.org/standards/photo-metadata/iptc-standard/ Links to an external site.
+[5] Video container formats: https://en.wikipedia.org/wiki/Comparison_of_video_container_formats Links to an external site.
+[6]  S. K. Burley et al. 'RCSB Protein Data Bank: Sustaining a living digital data resource that enables breakthroughs in scientific research and biomedical education' https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3331 Links to an external site.

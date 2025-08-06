@@ -1,0 +1,30 @@
+---
+title: Legal considerations
+---
+# Key takeaways
+
+- Key legislation, policies and agreements relevant to your research data management.
+- The KTH guidelines for managing research data contain key points to consider.
+- Different legislation apply to different types of data. 
+- Use your data management plan for pinning down what legal considerations are needed for your data at an early stage.
+
+## In a collaborative research project:
+- Conditions for data use, sharing and re-use must be adressed early (before or at the latest when any agreements are negotiated).
+
+Malin Koch, legal counsel tells more about legal considerations and agreements in this video:
+
+<iframe id="kmsembed-0_b57jsmn4" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_b57jsmn4/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH Open Science Film 9 Interview with Malin Koch, KTH legal council"></iframe> 
+
+In Sweden, the principle of access to public information is strong, meaning that the default is that information at a government body such as KTH should be available to the public if requested. There are, however, reasons for secrecy described in the legislation. In the [KTH policy on the application of rules on public access and secrecy](https://intra.kth.se/en/styrning/styrdokument/regler/dokumenthantering-och-handlingsoffentlighet-1.660522) you can read more about applicable rules on public access and secrecy. For research, the most relevant legal frameworks for secrecy and reasons for confidentiality, what data to publish, responsibilities for data management etc. is described in the [KTH guidelines for research data](https://intra.kth.se/polopoly_fs/1.1037531.1608134528!/Guidelines-on-managing-research-data.pdf).
+
+As Malin talked about, agreements are also important, and where you deal with personal information the General Data protection Regulation apply. You can read more about different types of agreements in the [IP management course page](https://canvas.kth.se/courses/19672/pages/module-3-ip-management-from-idea-to-impact-basic-rules-and-recommendations?module_item_id=220010) on agreements and more on Data protection and privacy on the next page. If you have questions on contracts and agreements, you can contact your local contract coordinator. At this page on the intranet you'll find [contact information to the local contract coordinators](https://intra.kth.se/forskning/kontakt/nar-du-forskar/kontakter-for-forskningsavtal-1.1291274) and more information on agreements.
+
+# Secrecy vs confidentiality
+The term confidentiality is relevant when it comes to information security whereas secrecy is a legal term (in Swedish "sekretess"). Data that has legal reasons for secrecy is always confidential, but not all confidential data is necessarily subject to secrecy. Whether secrecy applies to the data is judged from case to case at the time-point when someone request that data. On the other hand, confidentiality can be assessed early on where confidential data is data that need to be kept secure with restricted access from start. There can be a number of different reasons for keeping your data more or less confidential.
+
+You can read more about information security, assessing confidentiality and working with confidential data in the following sections of the course.
+
+# Learn more
+More specific information on legal aspects, including references to laws and regulations can be found on the KTH web pages.
+
+https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata/juridiska-aspekter-kring-forskningsdata-1.861140

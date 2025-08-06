@@ -1,0 +1,74 @@
+{
+  "index.qmd": {
+    "index.html": "043b98ce"
+  },
+  "about.qmd": {
+    "about.html": "b66d1056"
+  },
+  "open-science/open-science-umbrella.qmd": {
+    "open-science-umbrella.html": "bb995187"
+  },
+  "open-science/open-science-umbrella/open-data.qmd": {
+    "open-data.html": "04e64a41"
+  },
+  "open-science/open-science-umbrella/open-access.qmd": {
+    "open-access.html": "c6af9b2b"
+  },
+  "open-science/bibliometrics-research-evaluation/bibliometrics-research-evaluation.qmd": {
+    "bibliometrics-research-evaluation.html": "d8acf0a6"
+  },
+  "open-science/open-science-umbrella/open-source.qmd": {
+    "open-source.html": "ab804729"
+  },
+  "open-science/open-science-umbrella/open-methods.qmd": {
+    "open-methods.html": "0e7698be"
+  },
+  "open-science/open-science-umbrella/open-science-umbrella.qmd": {
+    "open-science-umbrella.html": "d1a4ebf4"
+  },
+  "data-management/data-management.qmd": {
+    "data-management.html": "b932c1b3"
+  },
+  "open-science/open-science-umbrella/other-aspects.qmd": {
+    "other-aspects.html": "92aa0cc0"
+  },
+  "data-management/practical-advice.qmd": {
+    "practical-advice.html": "6dd075ad"
+  },
+  "data-management/information-security/confidential-data-privacy.qmd": {
+    "confidential-data-privacy.html": "3b8b4ba3"
+  },
+  "data-management/information-security/confidential-data-industry.qmd": {
+    "confidential-data-industry.html": "2b304ee0"
+  },
+  "data-management/information-security/information-security.qmd": {
+    "information-security.html": "bf336def"
+  },
+  "data-management/long-term-storage-publishing-preservation.qmd": {
+    "long-term-storage-publishing-preservation.html": "bf991e79"
+  },
+  "data-management/legal-considerations.qmd": {
+    "legal-considerations.html": "a6e63291"
+  },
+  "data-management/FAIR.qmd": {
+    "FAIR.html": "7e33ae96"
+  },
+  "data-management/data-management-plans/sharing-data-at-different-stages.qmd": {
+    "sharing-data-at-different-stages.html": "8d693975"
+  },
+  "data-management/data-management-plans/data-management-plans.qmd": {
+    "data-management-plans.html": "e14e3f7c"
+  },
+  "data-management/data-management-plans/balancing-open-and-restricted-access.qmd": {
+    "balancing-open-and-restricted-access.html": "daae9e32"
+  },
+  "data-management/reuse-of-data.qmd": {
+    "reuse-of-data.html": "a6d8611f"
+  },
+  "course-summary.qmd": {
+    "course-summary.html": "005ce74f"
+  },
+  "key-takeaways.qmd": {
+    "key-takeaways.html": "4157dfea"
+  }
+}

@@ -1,0 +1,46 @@
+---
+title: "The Open Science Umbrella"
+---
+
+# Key takeaways
+- Open science aims for a more transparent research process where the research output is digitally available for everyone.
+- There are different concepts included in the open science movement such as open access, open data and open source.
+
+# Open science
+Open science is an umbrella term including a number of various movements and practices that have in common that they all are aiming to make the process, production and results of science more transparent and accessible for everyone. Definitions and an introduction to open science is given in the film below:
+
+<div style="max-width:650px"><div style="position:relative;padding-bottom:56.307692307692%"><iframe id="kmsembed-0_qbkhbh9u" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_qbkhbh9u/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH Open Science Film 2 Overview of Open science" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div></div>
+
+As can be seen in the video, there are a few different definitions and different perspectives on the meaning of Open science @fecherOpenScienceOne2014. However, policymakers and funding agencies increasingly stress the importance of open science practices @regeringskanslietForskningFrihetFramtid2020, @OpenResearchEurope.
+
+The impact of open science may also differ between different research areas - let´s start with listening to Thomas Crouzier, a KTH researcher who shares his experiences of different aspects of open science practices. First, Thomas tells us about his research and how he became engaged in open science and discovered useful digital tools.
+
+<div style="max-width:650px"><div style="position:relative;padding-bottom:56.307692307692%"><iframe id="kmsembed-0_3ql3o6yx" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_3ql3o6yx/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH Open Science Film 5.1 TC intro to open science practices" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div></div>
+
+Thomas did a report on the impact of a transition towards Open Science on the stakeholders in the research ecosystem for the European commission @europeancommission.directorategeneralforresearchandinnovation.scienceecosystem202015. An important part of open science is open access to scientific publications. You can learn more about that on the next page where you will find out more about different open access models and Thomas gives his view on open access.
+
+# Assignment
+## Reflection
+Reflect on the following questions and write down your answers.
+
+1. What is the impact of the discussion of open science in your field? 
+
+2. Do you think your research field and/or your own research practice would benefit from incorporating some new open science practices? If so, why? What would be a simple first step? If not, why not?
+
+# Learn more
+::: {#refs}
+:::
+
+[1] Open Science: One Term, Five Schools of Thought, https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2#Sec12 Links to an external site.
+
+The official policy of the Swedish government is stated in the Research bill [2] from December 2020, in Swedish. If you can read Swedish, read especially section  10.2.2 Ett öppet vetenskapssystem (An open research system)
+
+[2] Utbildningsdepartementet. Proposition 2020/21:60 Forskning, frihet, framtid – kunskap och innovation för Sverige. / Department of education. Bill 2020/21:60 Research, freedom, future - knowledge and innovation for Sweden. Available: https://www.regeringen.se/rattsliga-dokument/proposition/2020/12/forskning-frihet-framtid--kunskap-och-innovation-for-sverige/ Links to an external site.
+
+[3] Horizon Europe and the Open Research Europe platform
+
+https://open-research-europe.ec.europa.eu/ Links to an external site.
+
+[4] The report on Open Science and the science Ecosystem.
+
+Crouzier, T. (2015, July 15). Science Ecosystem 2.0: how will change occur?. http://doi.org/10.2777/67279

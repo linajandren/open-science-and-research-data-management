@@ -1,0 +1,49 @@
+---
+title: Balancing between open and restricted access to data
+nocite: |
+    @piwowardatareuseopen2013, @leitnerdatapublicationscorrelate2016
+---
+# Key takeaways
+- Data produced in publicly funded research should be made publicly available when results are published
+- Much data can be available as open data with unrestricted access
+- Some data is confidential, and then restricted access is necessary
+
+In many areas, most datasets contain information that can be shared fully open. There is also an increasing pressure on making data from publicly funded research publicly available in the latest research proposition as well as from many funding agencies.
+
+Measurements of natural phenomena rarely contains confidential information and sharing this type of data upon publication benefit everyone in the scientific community. It makes it easier to reproduce your results, increase transparency and makes it easier to find and correct errors. Also re-use of associated data have in some research fields been associated with higher citation of publications [1, 2] so if you have data where no reasons for confidentiality exist, sharing it as open data lead to many benefits.
+
+However, there are several other types of data where you have to think more carefully before sharing since there may be reasons for confidentiality. If you're not sure about your own data - go through this checklist before sharing the data fully open.
+
+## Checklist with reasons for restricted access:
+If the answer is yes to one or more of the following questions, there are reasons for more restricted access to your data
+
+- Does your data contain information subject to secrecy according to the [Swedish Public Access to Information and Secrecy Act (2009:400)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/offentlighets-och-sekretesslag-2009400_sfs-2009-400/)?
+- Does your data contain personal information or information that indirectly can identify unique individuals?
+- Does your data contain description of technology with []"dual use" (i.e. both civil and military use)(https://intra.kth.se/forskning/overgripande-stod/exportkontroll/exportkontroll-vid-samarbeten-med-kanslig-teknik-1.814215)?
+- Do you collaborate with others that may claim ownership of data/ any intellectual property?
+- Does your data contain material that is protected by intellectual property rights?
+- Does your data form the basis of a patentable invention?
+- Do you work in a highly competitive field where data is a valuable asset for negotiating new initiatives for collaboration?
+- Do you use secondary data, i.e. data created/collected by someone else?
+- Does your data contain information that may be sensitive due to other ethical reasons?
+- Can your data together with other public datasets be used for detailed profiling of individual human behavior?
+
+If the answer is yes to one or more of the questions above, the data may be confidential to some degree at least at some period in the research process. In some cases, measures like de-identification/anonymization of personal information or delayed release after an embargo period still enable you to share data on an aggregated level or as partially open data or as open data after a limited period of time. You can download this checklist as a pdf-file  Download checklist as a pdf-file as well.
+
+But if the reasons for confidentiality remain, one possibility is to publish metadata describing how data was collected and under what conditions the data can be accessed. As an example, you should not submit data containing sensitive personal information to a public data repository, but you can publish metadata that described data collection and provide contact information if another researcher want to access the data, provided that the researcher has an ethical approval to use that data.
+
+There's more information on how to work with confidential data in the succeeding pages of the course.
+
+# Assignment
+## Reflection 
+
+Write down your reflections on:
+
+What measures can you take when you publish your results in order to improve transparency and reproducibility even though not all data may be fully open to access?
+
+# Learn more
+
+::: {#refs}
+:::
+
+

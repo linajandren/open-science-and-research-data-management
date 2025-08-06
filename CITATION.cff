@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this resource, please cite it as below."
+authors:
+  - family-names: Andrén
+    given-names: Lina J.
+    orcid: https://orcid.org/0000-0002-7539-3203
+title: "Open Science and Research Data Management"
+version: a
+identifiers:
+  - type: url
+    value: https://here
+date-released: \today

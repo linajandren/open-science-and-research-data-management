@@ -1,0 +1,49 @@
+---
+title: "Start"
+---
+
+# Welcome to the course on Open Science and Research Data Management
+
+This course is intended to give you a basic understanding and overview of important concepts about Open Science and Data management within a research setting.
+
+## Intended learning outcomes
+
+After taking this course you should:
+
+- Know about key concepts in open science
+- Be able to write a data management plan
+- Understand and apply FAIR principles for research data in your own field
+
+If you are in a position where you also manage a larger collaborative project there is additional material that you can take part of. See more on the course in this introductory welcome video:
+
+<div style="max-width:650px"><div style="position:relative;padding-bottom:56.307692307692%"><iframe id="kmsembed-0_bx1hjtoe" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_bx1hjtoe/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH Open Science Film 1 Intro to the course" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div></div>>
+
+## About the course
+This course is part of a course package for researchers and PhD students at KTH. The course has some recurring headlines so that you can choose to go through the basics as an individual while also providing extra material that is good to know for those of you who work and manage larger collaborations. Larger collaboration often require more skills on data management where it might be important to take additional considerations into account.
+
+The end of each section will refer to additional material for those of you interested in broadening your knowledge on the topic. On many pages you'll find the following headlines:
+
+## Key takeaways
+Under the key takeaways headline you will find a short summary of the most important things covered for the topic of that page.
+
+Considerations for collaborative projects
+For some topics, there are additional considerations when you are working in a larger project.
+
+In these cases, we've added further learning material under this headline which is especially of importance when managing or coordinating larger collaborations, for instance a centre or a larger research project with many stakeholders etc.
+
+## Assignment
+Under this headline you will find tasks for your learning, such as reflections or a quiz. We recommend you to take notes from these reflections and bring them to group discussions arranged in connection to the course.
+
+There will also be a final assignment that you should send in if you are a PhD student who want credits for this course. Even if you are not a PhD student getting credits, we encourage you to do these assignments as practicing and applying your knowledge will support your learning.
+
+## Learn more
+Under this headline we will provide references and links to more material if you want to dive even deeper into the topic. 
+
+At the bottom, we inserted a progress bar so that you can see how far you have proceeded with the course material.
+
+
+Material for the course is in general subject to a CC-BY 4.0 Links to an external site. license and developed mainly by Lina Andrén, Rosa Lönneborg and Marianne Loor with help from co-workers and of course the persons who kindly agreed to be interviewed and consented to share their knowledge and experience throughout the course. For the interview material though, please consider that it contains personal information.
+
+If you have questions, you are always welcome to contact the research data team at [researchdata@kth.se](mailto:researchdata@kth.se)
+
+So let's get started! -->

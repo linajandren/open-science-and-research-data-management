@@ -1,0 +1,59 @@
+---
+title: "Data Management Plans"
+---
+
+# Key takeaways
+Why create a data management plan?
+How to create a data management plan for your own project.
+KTH has guidelines for managing research data. A data management plan is mandated by those guidelines.
+What is a Data Management plan?
+
+<iframe id="kmsembed-0_v2vg9wbz" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_v2vg9wbz/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Data Management Plan"></iframe>
+
+A data management plan (DMP) is a document where you outline all necessary details about how you will manage the data you use. Depending on the size and complexity of your project, you may need more or less details in your plan. DMP:s are perhaps most needed in larger projects with many collaborating partners.
+
+## In a larger collaborative research project:
+
+share the plan with everyone involved.
+make sure everyone understand their roles and responsibilities.
+
+# Why? The purpose of having a plan
+
+The main purpose of a data management plan is to facilitate data management. Planing early on often makes things easier in the long run, but in analogy with the second law of thermodynamics, structuring and organizing your data reduces entropy and thus requires energy. However, time and energy put into organizing will make it easier to find and understand the data - for your future self and your collaborators as well as for potential re-users.
+
+# What should be included in the plan?
+
+The DMP should have the important details of how data is handled both during the active research phase. It should also contain what to do with the data after the results based the data are published. The DMP should ideally be revised and updated as the project progress, since many tings can change. Hopefully though, by considering how to collect, store, organize, share and publish your data from the start, you can for large parts just follow the plan from there, saving you time and frustration. Also, having a plan will make it easier to anticipate needs for resources and budgeting.
+
+It's becoming more and more common that funding agencies require that you have a DMP. The exact terms may vary from funder to funder [1, 2, 3]. If possible, make sure that you include costs for curating, storing and preserving data in your funding budget proposal. The University of Utrecht has a guide that may help with cost estimation Links to an external site.
+
+# How to create a plan
+
+At KTH, we offer a tool for creating a data management plan that you can access here:
+
+https://dmp.kth.se.
+
+In this video, Lina will show you how to use the dmp-tool to create a data management plan:
+
+<iframe id="kmsembed-0_qtzqzer4" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_qtzqzer4/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH DMP Online demonstration"></iframe>
+ 
+
+In theory, you can create a plan on paper or using any other tools. But by using the KTH DMP Online tool you will have direct access to the KTH-specific guidance including information on how to get more support on specific questions here at KTH. Some research funders also requires that your institution should be able to confirm that you have a data management plan when you start your project [1, 2].
+
+A data management plan can be very short (A short e-mail sent to researchdata@kth.se where you write "I have no data") to very thorough (large collaborative project with complex big data) dependent on your needs.
+
+Some funders asks you to submit a first version of your DMP with your application [3]. In that case, you can create a DMP using KTH DMP Online. Then, if you need to update your DMP, remember to create a copy of the first version that you submitted, or to download a pdf copy of the first version before you make changes. Then you can save a pdf copy in the DMP tool after using the template for that funding agency.
+
+# Assignments
+
+Throughout the rest of the course, you will gradually learn more that makes it easier to draft and give answers to the commonly occurring questions in a DMP questionnaire. You can start already now to fill in a data management plan template at dmp.kth.se . If you want to hand in a data management plan as an assignment for the course, you can send an email to [researchdata@kth.se](mailto:researchdata@kth.se) when you have completed the data management plan at the end of the course.
+
+# Learn more
+
+[The Swedish research council requirements on a data management plan](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/producing-a-data-management-plan.html)
+
+[Formas requirements on a data management plan](https://formas.se/en/start-page/applying-for-funding/how-it-works/good-to-know-before-you-apply.html#h-Openaccesstoresearchresultsanddata)
+
+[Horizon Europe requirements on a data management plan](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf)
+
+ 

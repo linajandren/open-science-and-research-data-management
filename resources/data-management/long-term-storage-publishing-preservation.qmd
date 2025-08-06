@@ -1,0 +1,43 @@
+---
+title: "Long term storage, publishing, archiving and preservation"
+---
+# Key takeaways
+- As a rule, research data should be archived for at least 10 years after the end of a research project.
+- Archiving is achieved by following the archiving routines at each school. 
+- Data that has considerable value for future research should be preserved.
+- If data is non-confidential, publishing data is achieved by submitting the data to a high quality data repository.
+- For confidential data, a description of the data may in many cases be published while access to the data itself is restricted.
+
+The concepts of *long-term storage*, *publishing*, *archiving* and *preservation* are sometimes confused with each other, but there are important differences between these terms and there are different objectives behind these processes. Publishing, archiving, preserving and storing data are processes that may overlap but they are not the same and are governed by different regulations and standards.
+
+The person responsible for data management according to the data management plan carries the responsibility for research data during the active research project. After that, KTH has a responsibility for the data for at least ten years before a decision to delete it can be made (see archiving).
+
+## Long-term storage
+The objective for long-term storage is to maintain research data at a technical level so that it is readable and accessible even after the end of a research project for different stakeholders.  Stakeholders can for instance be other researchers who want to reproduce your results or re-use your data in producing new research results or the general public. Long-term storage is not a formal and well-defined term, but is often used in many contexts. Both for publishing and archiving data you need to have an appropriate storage solution for the data that fulfills technical requirements to ensure proper back-up, good data availability and integrity as well as security measures appropriate to the level of confidentiality for the data during the time of storage.
+
+## Publishing
+The objective of publishing data is to make that data digitally available to the public according to the FAIR principles. If you use one of the [KTH recommended data repositories for sharing and publish data](https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata/deponera-och-publicera-data-1.861137), these data repositories provide long-term storage and data is published according to the FAIR principles. However, if you have confidential data that can not be shared fully open, contact [researchdata@kth.se](mailto:researchdata@kth.se) for advice before submitting data to a repository.
+
+For many types of confidential data, a description of the data can be published at the [SND data repository](https://snd.se/sv) with information on how to proceed to get access to the actual data and if certain conditions apply before you may get access to the data. However, in some cases a risk assessment need to take place before submitting the metadata for some types of confidential data (see the page on [information security](information-security/information-security.qmd)).
+
+Archiving
+The objective of archiving is to make sure that the public is guaranteed the right of insight to research performed at KTH as part of the principle of Public Access to Information (Offentlighetsprincipen). So, archiving is a process ruled by the public right to access governmental information. Research at KTH falls under the principle of Public access to information regardless of research funding as described in the legal section. 
+
+Archiving of governmental information is described in regulations from the [Swedish National Archives (RA-FS 1999:1), (Swedish)](https://foreskrifter.riksarkivet.se/rafs/75) What information from research that is needed to be archived at KTH is described in the [KTH informationshanteringsplan (Swedish)](https://intra.kth.se/administration/dokument/informationshanteringsplan/ihp-1.1108761) 
+
+In short, information from research projects cannot be destroyed if there is no "gallringsbeslut" , i.e. a formal decision to delete the information. This decision is formally taken by the manager of each School, but the delegation order for this may vary at different schools.  The decision to delete data cannot be made before at least 10 years has passed since the "economic end date" of the research project. As a rule of thumb, only data that has considerable value for future research should be preserved for longer time than that - see preservation.
+
+Each school is responsible for their own archiving process. Contact the record manager at your school for questions regarding archiving.
+
+Preservation
+The objective of preservation is to make it possible for coming generations to explore the 21th century. Not all research data needs to be preserved.
+
+If there is a need for preservation of data, it's important to structure and document the data in a way that makes it possible to understand how data was collected/created, what different variables mean and how different files relates to each other. This means you should express relationships and definitions between different data-sets. If possible, choose open standard formats before supplier-dependent formats.
+
+If there is need for long term preservation, please contact [e-arkivet@kth.se](mailto:e-arkivet@kth.se). Together we work through the Producer-Archive Interface Methodology Abstract Standard (PAIMAS) as part of the preserving process.
+
+# Assignment
+## Reflection
+Does any of your data have considerable value for future research?
+
+What do you need to do to preserve that data so that someone in the distant future could understand it?

@@ -1,0 +1,89 @@
+---
+title: "Open Access"
+---
+
+# Key takeaways
+- Some pros and cons of Open access as a model for research publishing.
+- Different models for open access - what is green, gold and hybrid OA?
+- Funding models and funding agency requirements for open access publishing.
+- Open access publishing for KTH researchers - how to do it.
+
+# Open Access
+
+Open access could refer to free and direct electronic access to any type of research outputs, but it usually refers to open access to research publications. In this video Thomas Crouzier gives his perspective about the impact of open access in his research:
+
+
+
+<div style="max-width:650px"><div style="position:relative;padding-bottom:56.307692307692%"><iframe id="kmsembed-0_fzuayc2d" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_fzuayc2d/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH Open Science Film 5.2 TC on Open Access" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div></div>
+
+# What is Open Access?
+In this short video, you can get a quick introduction to the background of Open Access, and perhaps where it is heading today.
+
+<div style="max-width:650px"><div style="position:relative;padding-bottom:56.307692307692%"><iframe id="kmsembed-0_l3zizrja" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_l3zizrja/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Introduction to Open Access" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div></div>
+
+# History of the open access movement
+The open access movement started growing in the 1990s, when the internet made online publication of journals and papers possible. At this time, university libraries saw rising subscription costs and increased bundling of journals into larger packages, making access to the literature expensive and unequal. The idea of moving to an open access business model was that by publishing the scholarly literature online, without costs for sending out paper journals, anyone should be able to read about the latest research. An early statement of the aims and goals of the Open access movement was the Budapest Open Access Initiative Declaration @budapestopenaccess. More on the background and motivations of open access can be found in @suberopenaccess2012.
+
+During the last few years, most subscription journals have started to offer researchers a hybrid open access model - allowing the authors of an article to pay for open access of an article in a journal where most of the content is kept behind a paywall. The advantage for researchers is that they can keep publishing in familiar journals. However, by paying for publishing results in a journal where the university already pays for access means that each university has to pay twice for articles that their own researchers write. The result of this so far is that the domninant model of OA publishing now is a model where researchers pay for publishing. At KTH, in many cases, the payments can be covered by the university library. [Learn more about the details of how to publish your research as Open Access.](https://www.kth.se/en/biblioteket/publicera-analysera/vagledning-for-publicering/publicera-open-access-1.859196)
+
+# Funder requirements
+Today many research funders require you to publish your research openly available. Exactly what is required varies, but for example the Swedish Research council (VR) does require all publications except books and monographs to be published accessible to everyone online free of charge within six months of publication. In the humanities, social sciences and educational sciences the time limit is 12 months. 
+
+[Open access requirements of the Swedish Research Council.](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/publishing-open-access.html)
+
+[Open access requirements for the European Research Council.](https://erc.europa.eu/managing-project/open-access)
+
+[The Sherpa Juliet database lists open access requirements for most research funders.](https://v2.sherpa.ac.uk/juliet/)
+
+Part of the reason that hybrid journals have become more common during the last few years is the so called [Plan S](https://www.coalition-s.org/), coming from a coalition of research funders calling themselves cOAlition S. Plan S was launched in 2018 and the original plan demanded that all research funded by the coalition's funders should be published immediately Open Access. Furthermore, the original plan didn't accept open access in subscription journals unless the publishers commited to converting the journals to open access. The original plan S has been much discussed and modified several times. There are still several potential problems with the plan, and it still isn't clear to what extent those requirements will change publishing. It is clear though, that since the launch of Plan S, the pay to publish model has become a lot more prevalent, with most major journals now offering it as an option. Some medium size publishers have changed or will soon be changing from a subscription based model to a fully open access, pay to publish model. Currently, cOAlition S funders are planing to cease all payments for publications that have not transformed to fully open access after December, 2024. 
+
+# Open access advantages
+The reasoning behind requiring open access is that by making the research results openly available, access won't be a hindrance to researchers or other interested parties. In theory this will make future usage and citation of open access research articles more likely. In practice, the well-known brands of traditional journals still make it hard to find conclusive overall evidence of such advantages. However, in 2016 SPARC Europe stopped updating their comparison summary listing studies of open access citation advantage concluding that the collected evidence was clearly in favour of a citation advantage for open access. Read more about the OpCit Project by SPARC Europe at @openaccesscitation.
+
+Open access publishing makes research results available to everyone, no matter if they have a university affiliation, and no matter the size of the library budget at their university. On a global scale, this is an important part of making research results available to researchers in low- to middle-income countries. It also plays a role in projects and collaborations where non-academic stakeholders are involved.
+
+# Different open access models
+Scholarly journals operate in different ways and with different business models. Open access models are often referred to as different colors of open access, but a major differrence is whether the author pays for publishing or not.
+
+## Pay to publish open access models
+[Try SciFree, a service that can help you find journals with prepaid open access fees](https://app.scifree.se/kth)
+
+[More information about open access fees (gold or hybrid) from KTH library.](https://www.kth.se/en/biblioteket/publicera-analysera/vagledning-for-publicering/publicera-open-access-vi-betalar-1.859196)
+
+Gold open access - journals with only open access articles
+Gold open access journals are funded by so called article processing charges (APC) or open access fees, payed by the authors. If your article has a corresponding author who is employed by KTH, the open access fees can usually be handled by the university library. 
+
+## Hybrid open access - open access articles in subscription journals
+Hybrid open access can be chosen in many traditional subscription journals. This business model means that authors pay for publishing open access in a traditional journal, making the article freely available even though the journal is a subscription journal. For many publishers, the KTH library will pay the open access fees for articles with a KTH employed corresponding author.
+
+## Open access with no author fees
+Having authors (or their universitites) pay a fee to publish open access can be a barrier making it hard for some researchers to publish their research. Paying for publishing also gives publishers an incentive to publish many articles, rather than high quality articles. But there are other open access options, not requiring the authors to pay to publish.
+
+## Green open access - parallell publishing journal articles in open repositories
+Green open access means publishing in a traditional journal that allows you to put a copy of you article in an open repository, like [arxiv.org](https://arxiv.org/) or [DiVA](https://www.diva-portal.org/). 
+
+Green open access is compliant with the open access requirements of most research funders. However, if the copyright of the article is signed over to a journal publisher, you need to find out if the publisher allows posting a copy in a repository. Check the journal web site or search the [Sherpa Romeo database](https://v2.sherpa.ac.uk/romeo/). In many cases the publisher's conditions do allow open access publishing of some version of the manuscript. Some publishers allow only posting of preprints, i. e. the early versions of a manuscript from before the review process, and other publishers allow posting of post print manuscripts, i. e. a copy of the refereed and edited manuscript only differing from the printed copy by the absence of journal formatting and pagination. Most publishers don't allow posting of the journal version of an article unless the article is gold or hybrid open access to start with (see below). 
+
+## Diamond Open Access
+A final option for open access publish available to some researchers, are journals that are open and free to read, but also don't charge a publishing fee. Such journals are often referred to as diamond open access. They depend on external funding, either from academic institutions, research funders, or philanthropic initiatives. Some journals have membership programs for academic libraries, meaning that libraries don't have to pay for a subscription, but it is still possible to contribute to relevant journals. 
+
+## The future of academic publishing
+Is open access the future of academic publishing? It's hard to predict future developments, but some trends can be seen:
+
+- many major publishers are putting more emphasis on the pay to publish model, i. e. gold and hybrid open access.
+- larger publishing houses with a former emphasis on subscription journals have been acquiring newer OA publishers and made OA (hybrid options) available for their subscription journals.
+- some researchers are increasingly considering diamond open access options and the potential benefits for the research community.
+- new journals experiment with new business models, but also in some cases with new formats and more control for research communities and institutions.
+- some journals are opening up more of the editorial process, working with open peer review
+
+# Assignment
+Investigate how open access publishing affects your own publishing and funding. Find the answers to the questions below:
+
+1. What were the open access options for the last paper you published? Was the paper published with open access?
+2. What is the policy for parallell publishing (green OA) for the most recent paper you published that was not made openly available at the journal web page? How can you find out?
+Many, but not all, research funders requires grantees to publish their results openly available. 
+3. Some allow for an embargo period before results are made open access, while others don't. Many funders have made their rules stricter during the last few years. If your research is funded by grants, find out what the conditions for those grants are.
+
+# Learn more
+:::{#ref}
+:::

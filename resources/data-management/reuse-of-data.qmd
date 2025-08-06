@@ -1,0 +1,81 @@
+---
+title: "Re-use of data"
+---
+# Key takeaways
+
+- There are different reasons for re-using data.
+- Re-using data opens up new possibilities for data-driven research but there are also pitfalls.
+- Licenses are important to clarify the conditions for re-use of data (and source code).
+- High quality metadata is important to make data more re-usable.
+- There are many resources available for finding useful data.
+
+Re-using data has potential to be more efficient, since you don't have to spend time collecting data yourself when someone else already has collected useful data. In practice though, the re-usability is very much dependent on data quality and data documentation. When re-using other peoples data, expect to spend some time to find out how it works and what you need to do to make it work for your purposes. However, the benefits of re-using data can be seen in many research fields both in areas that have been data-driven for a long period of time as well as fields where a data-driven approach is relatively new. Also other stakeholders may benefit from the re-use of data.
+
+Re-use of data also enables a more sustainable use of resources. Listen again to Anna and Jonas talk about how they see benefits of improved access to data in their fields of research.
+
+<iframe id="kmsembed-0_i4sqki6m" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_i4sqki6m/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH Open Science Film 6.3 Interview with Anna P and Jonas AV, ITRL and LiveinLab part III"></iframe>
+
+When data is shared in public data repositories this opens up possibilities to a more data-driven approach in research fields even if you do not produce all the data yourself. Let's hear Johan Rung talk about data sharing in Covid-19 research and how the data centre at Scilifelab built a Swedish data portal for sharing Covid-19 related data, which has now evolved into the [Swedish Pathogens Portal](https://www.pathogens.se).
+
+<iframe id="kmsembed-0_n3gcn8et" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_n3gcn8et/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH Open Science Covid Data WIP 1.mp4"></iframe>
+
+Martin Isaksson shares another perspective on the value of open data-sets and re-use of data where already existing data makes it possible to avoid dealing with sensitive data:
+
+<iframe id="kmsembed-0_ncu1pbfx" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_ncu1pbfx/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH Open Science Film 7.3 Interview with Martin Isaksson on open data and re-use"></iframe>
+
+
+# Assignment
+## Explore
+
+Can you find data within your own research area that may be useful for you? Browse for subject specific datarepositories at Re3data.org Links to an external site. or search in a broad generic dataportal or other sources for data listed under data sources below the learn more section.
+
+## Reflection
+
+Read the essay by Pasquetto, Randles & Borgman @pasquettoreusescientificdata2017 - who would you think could be a re-user of your data and for what purpose - reproducibility or integration? Do the different purposes require different quality requirements/standards?
+
+Would you consider re-using someone else's data? What would you need in order to do that?
+
+
+::: refs
+:::
+
+The source code repository for the Swedish covid-19 data portal:
+https://github.com/ScilifelabDataCentre/pathogens-portal/
+
+Sources for open data-sets:
+Scientific data repositories, browse by subject, type etc: [Re3data.org](https://re3data.org)
+
+
+### Sources for Open data sets and API:s at KTH
+
+[https://www.adeye.se/open-kth](https://www.adeye.se/open-kth)
+
+[KTH Zenodo Community](https://zenodo.org/communities/kth)
+
+https://www.kth.se/en/api/anvand-data-fran-kth-1.57059
+
+### Broad generic dataportals , search engines and databases:
+
+[Zenodo](https://zenodo.org)
+
+[Google dataset search](https://datasetsearch.research.google.com)
+
+[EU Open data portal](https://data.europa.eu/data/datasets?catalog=european-union-open-data-portal&showcatalogdetails=true&minScoring=0&locale=en)
+
+[Researchdata.se](https://researchdata.se/sv/catalogue)
+
+### Datasets mentioned by Martin Isaksson are available here:
+
+[Google dataset search](https://datasetsearch.research.google.com/)
+
+[Kaggle](https://www.kaggle.com/datasets)
+
+[OpenML Datasets](https://www.openml.org/search?type=data)
+
+[Information about the API at OpenML](https://openml.github.io/openml-python/latest/)
+
+
+
+[TensorFlow Datasets](https://www.tensorflow.org/datasets) 
+
+[https://docs.pytorch.org/vision/stable/datasets.html](https://docs.pytorch.org/vision/stable/datasets.html)

@@ -1,0 +1,33 @@
+---
+title: Research Data Management - section overview
+---
+
+# Key take aways
+
+Data management starts early on in the research process.
+Funders and publishers are increasing their requirements on research data management.
+Research data management requires planning in order to share your data at a correct access level both during active research and when you publish your results.
+Managing your data in a research project is important and establishing good data management has many advantages. In this introductory video you can see how data management plays an important role early on in the research process and throughout the resaerch data life cycle.
+
+An introduction to data management and the research data life cycle is given in the video below:
+
+ <iframe id="kmsembed-0_fr1nupkr" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_fr1nupkr/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH Open Science Film 3 data management overview and data life cycle"></iframe>
+ 
+![Overview of the research data life cycle](../img/research-data-lifecycle.png){fig-alt="Data work starts at the planing phase of a research project, continues thorugh the stages of active research and can then be published and stored. Later, data can be re-used in planing and researching new projects. These stages were discussed in the video linked above." .lightbox}
+
+
+In this part of the course on research data management we will go through important considerations in the different stages of the research data life cycle: from planning to active research, publishing your data and considerations for re-using data in the active research phase.
+
+Starting early on with planning for data management makes it easier to manage data in a structured way during active research. Consistent file naming conventions, keeping your data in good order and documenting how you process data already from start could make the research process more efficient, especially in larger projects managing large or complex datasets, as well as making it easier for others to understand how the research was performed. This increases transparency and reproducibility and simplifies sharing your data when you publish your results.
+
+Funding agencies increasingly require research data to be made accessible according to the FAIR-principles, which you will learn about on the next page.
+
+ # Learn more
+
+The Research Data Alliance and the associations' different working groups have published many recommendations regarding research data management from various aspects:
+
+https://www.rd-alliance.org/recommendations-outputs 
+
+Science Europe, an association of mainly European funding organisations have collected resources like practical guides on FAIR data management and  data management plans:
+
+https://scienceeurope.org/our-resources/ 

@@ -1,0 +1,22 @@
+---
+title: "Course summary"
+---
+# Summing up the course
+
+We hope  that after going through this course you have learned enough to achieve the intended learning outcomes for the entire course.
+
+On the first page of the course we introduced the intended learning outcomes, you can review them again below and we hope that you have learnt enough by now to achieve those.
+
+# Intended learning outcomes
+
+After taking this course you should:
+
+- Know about key concepts in open science.
+- Be able to write a data management plan.
+- Understand and apply FAIR principles for research data in your own field.
+
+We also pointed out key takeaways during the course. There's a list of them after the course evaluation - please take a look to decide if you want to go back and go over any sections again. You are always welcome to send any questions to [researchdata@kth.se](mailto:researchdata@kth.se).
+
+If you could take time to submit a course evaluation we would be very happy to receive your feedback (please see the page following the final quiz).
+
+Hope you have enjoyed the course!

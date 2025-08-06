@@ -1,0 +1,17 @@
+---
+title: "Confidential data - industrial collaborations"
+---
+Key takeaways
+- Starting a collaboration should ideally include an early discussion of management of data and intellectual property.
+- A formal agreement regulating who can do what with what data, known and understood by everyone involved can help avoid misunderstandings.
+- Such an agreement should consider both data used for background information as well as the data created/collected during the project.
+- Using open data-sets can be beneficial both from an academic and an industrial perspective.
+
+Another reason for confidentiality is that you work closely with industrial collaboration partners that may have background information going in to the project, and this should be clearly described in an agreement as Malin told us. In agreements there may also be contractual clauses on who owns intellectual property and clauses that gives collaboration partners the right to decide if they want to submit a patent application within a certain time. Standard clauses in KTH agreements permits 30 days for industrial partners to respond if they want to submit a patent application + 90 days to draft and submit the application before you as academic researchers can submit and publish on the same results. Data that form the basis for a patentable invention may therefore be confidential for a limited time period. However, after this period you should be able to publish both data and results - with the exception where data is part of the background information. [Read more about IP clauses in industrial collaboration in the IP course](https://canvas.kth.se/courses/19672/pages/module-5-key-ip-questions-when-collaborating-with-specific-partners?module_item_id=220854) 
+
+There are ways of avoiding working with confidential data that may be sensitive from a business perspective by for instance using open data sets. Listen to Martin Isaksson talking about how terms for collaborations is regulated in agreements and the benefits of using open data sets to avoid issues with sensitive/confidential data.
+
+<iframe id="kmsembed-0_d7vyp271" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_d7vyp271/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH Open Science Film 7.2 Martin Isaksson interview part II"></iframe>
+
+Often, you also produce or collect data during the active research phase within the research collaboration. Then it is good to consider the advice on background information, IP clauses and agreements that Malin talked about in the legal section. It is also good to describe who is responsible for different aspects of data management in the data management plan.
+

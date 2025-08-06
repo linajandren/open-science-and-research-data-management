@@ -1,0 +1,66 @@
+---
+title: "Open Source"
+---
+# Key takeaways
+
+- Open source is source code openly shared that anyone is allowed to use
+- How to choose an appropriate license for your own source code.
+- Version control is a basic tool for keeping track of research code and data.
+
+## In a larger collaborative research project: 
+- A common code repository is a good tool for collaborative projects.
+
+# Open Source
+[Open source](https://en.wikipedia.org/wiki/Open-source_software) software is used as a term for computer software where the source code is released under a license where usage of the code (use, study, change and redistribute) is allowed for anyone for any purpose. It is not the same as free-ware, since open source components may be used as components in a commercial product and not exactly the same as [free-source](https://en.wikipedia.org/wiki/Free_software) where the free-source movement has a more strict negative view on proprietary software. The term free and open-source software (FOSS) can be used as an umbrella term for software that is considered both free and open source.
+
+Source code is subjected by copyright where the creator(s) of the source code is the original copyright holder. According to the [KTH Intellectual Property policy](https://www.kth.se/polopoly_fs/1.904248.1600689596!/Policy%20for%20management%20of%20intellectual%20assets%20created%20at%20KTH.pdf) a teacher employed at KTH retains the right to any copyright-protected material including software. This makes it your choice to choose a license that is appropriate for the source code.
+
+While there is no recommendation for a specific license, it is recommended that you choose a license. If you provide no licensing information, it is very hard for someone else that wants to re-use your code to be sure whether that is allowed or not. There are a lot of different licenses to choose from and fortunately there are also guides that help you to choose a license that you think is appropriate, such as [choose a license.com](https://choosealicense.com/). If you want to use open source as a strategy to create impact, read more in the course on intellectual property and open source
+
+Click on the link above and take a few minutes to reflect on which license you would consider appropriate if you were to license any source code you had been writing on your own. Are you using code that others have written? Which licenses does that code have? Is it compatible with the license you would like to choose?
+
+When it comes to reproducibility, it is important to document what software and what version of that software you are using. It quickly becomes very difficult to reproduce results from only data if this information is lacking. If possible, the source code for the software used for analysis should be documented in a public repository, and you can link to such repository in connection to sharing your data and results.
+
+Considerations when working in a larger collaboration project
+When several people are involved in writing code in a collaborative project it is essential to use some kind of version control system (VCS, sometimes also referred to as source code management or revision control system)  to be able to keep track of changes done by different people that are contributing to the project. The most common VCS tool today is GIT although other VCS tools like CVS, SVN or Mercurial are also used. It is also useful to share a common code repository where you can commit different versions of the common source code generated, such as [GitHub](https://github.com/), [Bitbucket](https://bitbucket.org/) or [GitLab](https://about.gitlab.com/) Links to an external site.. There are both private and public code repositories and for research projects in the Nordic countries the Nordic e-infrastructure for Computing (NEIC) offers a private [code repository for Nordic research code](https://source.coderefinery.org/users/sign_in). 
+
+The idea of open science is based on important principles in academic research on reproducibility and transparency. When working with industrial collaboration partners, open source, open data and Intellectual Property (IP) considerations may have to be balanced. However, industrial partners often rely at least partly on open source code and may see benefits with open data. Listen to Martin Isaksson share his experience as an industrial PhD student.
+
+<div style="max-width:650px"><div style="position:relative;padding-bottom:56.307692307692%"><iframe id="kmsembed-0_2xo5syol" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_2xo5syol/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH Open Science Film 7.1 Interview with Martin Isaksson part I" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div></div>
+
+Martin talks about credibility and the connection between open source and quality, and also how the knowledge that someone else may review and re-use your code gives higher motivation for improving documentation of the code, leading to higher quality. In the emerging practices for sharing open data, knowing that the data may be re-used in future research could also lead to better practices for documenting how you produce and analyze your data. In the same way that knowing that source code is shared openly with others may lead to better documentation and opens up for suggestions of improvements and potential collaboration.
+
+# Assignment
+## Reflection
+Write down your answers to the following questions:
+
+1. Do you use any open source software? Which license is used for that software?
+
+2. Do you see any advantages to publishing the code generated by your research in an online repository like GitHub or GitLab?
+
+3. If you look at code from different labs or research groups in your area, can you find common practices regarding licenses, repository usage and related issues?
+
+Learn more
+Code Refinery has resources on Open source and lessons on getting started with Git as well as workshops and events for PhD students/researchers:
+
+https://coderefinery.org/resources/ 
+
+Code Refinery also has a private code repository if you prefer to keep your code private until publishing
+
+https://coderefinery.org/repository/
+
+For project run strictly within KTH there is also a private Github repository - you can read more about here:
+
+https://intra.kth.se/en/it/programvara-o-system/system/kth-github/kth-github-1.500062
+
+Otherwise it's free to register an account at GitHub or GitLab or BitBucket to share code there. The Carpentries have lesson material to set-up your own git-repo and connect it to GitHub:
+
+https://swcarpentry.github.io/git-novice/ 
+
+The GitHub open source guide
+
+https://opensource.guide/ 
+
+The Zen of Scientific computing - don't overdo things, but do enough to make your code useful.
+
+https://scicomp.aalto.fi/scicomp/zen-of-scicomp/ 

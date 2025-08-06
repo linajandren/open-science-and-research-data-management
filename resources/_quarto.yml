@@ -1,0 +1,66 @@
+project:
+  type: website
+
+theme: kth.scss
+license: CC BY
+
+zotero: 'KTH Library Open Science and Research Data Management Course'
+csl: ieee.csl
+bibliography: references.bib
+
+website:
+  title: "Open Science and Research Data Management"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Course start page"
+      - href: open-science/open-science-umbrella/open-science-umbrella.qmd
+        text: "Open Science"
+      - href: data-management/data-management.qmd
+        text: "Research data management"
+  sidebar:
+    style: docked
+    contents:
+      - index.qmd
+      - section: "Open Science"
+        contents: 
+          - section: "The Open Science Umbrella"
+            href: open-science/open-science-umbrella/open-science-umbrella.qmd
+            contents:
+              - open-science/open-science-umbrella/open-access.qmd 
+              - open-science/open-science-umbrella/open-data.qmd
+              - open-science/open-science-umbrella/open-source.qmd
+              - open-science/open-science-umbrella/other-aspects.qmd
+          - href: open-science/bibliometrics-research-evaluation/bibliometrics-research-evaluation.qmd
+            text: "Bibliometrics and Research Evaluation"
+      - section: "Research Data Management"
+        contents: 
+          - data-management/data-management.qmd
+          - data-management/FAIR.qmd
+          - section: "Data Management Plans"
+            href: data-management/data-management-plans/data-management-plans.qmd
+            contents: 
+              - data-management/data-management-plans/sharing-data-at-different-stages.qmd
+              - data-management/data-management-plans/balancing-open-and-restricted-access.qmd
+          - data-management/legal-considerations.qmd
+          - section: "Information security"
+            href: data-management/information-security/information-security.qmd
+            contents:
+              - data-management/information-security/confidential-data-privacy.qmd
+              - data-management/information-security/confidential-data-industry.qmd
+          - data-management/long-term-storage-publishing-preservation.qmd
+          - data-management/practical-advice.qmd
+          - data-management/reuse-of-data.qmd
+      - course-summary.qmd
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

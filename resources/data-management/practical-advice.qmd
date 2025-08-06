@@ -1,0 +1,27 @@
+---
+title: "Some practical advice for data management"
+nocite: |
+    @wickhamtidydata2014, @kitzespracticereproducibleresearch2018, @wilsonbestpracticesscientific2014
+---
+We have put together a list of practical tips for keeping your data well-organized which makes it easier for both your future self and others to find and understand your data.
+
+- Taking some time at the beginning of a new research project or study to reflect on what data you will need to collect, how to store and analyze it and how to describe your data is usually well-invested time. This can be described in a data management plan.
+- Before starting to work with your data, set aside a copy of the original data that you will never change. There are some cases when this isn't feasible (e. g.  live data streams/dynamic data, very large datasets), but in all other cases, the original dataset should be preserved.
+- Decide on a file-naming convention that makes it possible to at least make a good guess from the file names what the files are about. If some files belong to the same series of measurement it is also good if this is clear from the file names.
+- Keep data organized in folders in a well-structured manner.
+- Include documentation on what different parameters mean so that it is clear how parameters are defined and if there is additional information needed to interpret the data.
+- Keep track of what is happening while processing data - one way of doing this is by using a version control system like Git, another way is to use software for analysis with automatic version control.
+- If you are keeping your data as smaller datasets, spreadsheets or data frames, put some thought into how you organize the information. This will make analysis simpler and reduce errors. See for example [1]. 
+- If you intend to collect and analyze larger collections of data, you need to organize data in some sort of database where type, design, formats, scalability etc. becomes important for the analysis to perform well. The specifics will depend on the size and type of the data and the type of database you use.
+- When publishing, make your data, code and documentation available as well, preferably with a license that will make it possible for others to reuse your material and cite your work, like CC-BY.
+
+When many people are involved in a project, it becomes more important to keep track of who is accessing the data and who is doing what with the data. A version control system such as Git makes it possible to keep track of changes, tracing back to an earlier version if someone makes mistakes.  Make sure everyone working with data know about what's decided on in the data management plan.  Ideally, the whole research workflow should be reproducible.
+
+But remember, there is a balance between documenting enough and over-documenting where the time spent on documentation may have been more well-spent on doing the actual research. So aim for good-enough, not perfection!
+
+# Assignment
+## Reflection
+What is a good-enough level of structuring, organizing and documenting data for your research?
+
+::: refs
+:::

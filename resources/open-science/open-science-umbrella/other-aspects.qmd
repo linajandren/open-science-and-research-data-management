@@ -1,0 +1,36 @@
+---
+title: "Other aspects of Open Science"
+---
+
+# Other aspects of Open Science
+
+The term "Open science" is used to refer to many different practices aiming to opening up research practice, methods and information. So in a way, rather than separating or sub-dividing it into different concepts it can be seen as a holistic approach to the scientific process that is seen in all communication of your research.
+
+Thomas tells us more about other means of communicating science in an open way.
+
+<div style="max-width:650px"><div style="position:relative;padding-bottom:56.307692307692%"><iframe id="kmsembed-0_g7zss1s4" width="650" height="366" src="https://play.kth.se/embed/secure/iframe/entryId/0_g7zss1s4/uiConfId/23453971/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KTH Open Science Film 5.3 TC on open science in research communication" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div></div>
+
+Some other terms that involves an open science approach and are usually seen as part of the open science movement are:
+
+## Citizen science
+The practice of involving non-researchers in the design, collection and/or analysis stages of research. An example is a research project with KTH professor Emma Lundberg where the researchers partnered with gaming companies to integrate analysis of protein localization from the Human Protein Atlas Cell Atlas images directly into a multiplayer online game. The resulting mini-game called “Project Discovery” was played by more than 300,000 gamers in the role of citizen scientists within EVE Online who together generated more than 33 million image classifications of protein subcellular localization, an achievement hailed as a milestone in citizen science [1].
+
+## Open Educational Resources
+Open educational resources (OER) are freely accessible, [openly licensed](https://en.wikipedia.org/wiki/Open_license) text, media, and other digital assets that are useful for teaching, learning, and assessing as well as for research purposes (wikipedia Links to an external site.). Nowadays, there are many platforms that offer free material for learning in a vast amount of subjects and topics. Open educational resources come in many different formats, such as videos, texts or textbooks, web pages, apps and self-guided courses offered online. A good place to find open educational resources is the [OER Commons](https://www.oercommons.org/). If you want general recommendations on OER practices, [UNESCO has adopted recommendations on Open educational resources](https://en.unesco.org/themes/building-knowledge-societies/oer/recommendation).
+
+Open educational resources are being adapted as alternatives or complements to traditional textbooks, but there are challenges for teachers, as well as for students that are exploring on their own. In @luopoweropenbenefits2020, the authors give an overview of some of the literature on adaption of OER in higher education.
+
+Related to OER, and possibly more well-known, are MOOCs, Massive Open Online Courses which in some cases are Open educational resources, but more often are courses available for free to students, but not reusable and remittable by teachers and educators. The more well-known MOOC providers, like [EDx](https://www.edx.org/) and [Coursera](https://www.coursera.org/), nowadays also offer paid for certificates as add-ons to the free courses.
+
+## Open Peer Review
+As an alternative to traditional peer review some journals and communities are trying more open peer review processes. [Wikipedia defines open peer review as follows](https://en.wikipedia.org/wiki/Open_peer_review): "Open peer review may be defined as "any scholarly review mechanism providing disclosure of author and referee identities to one another at any point during the peer review or publication process". Then reviewer's identities may or may not be disclosed to the public."
+
+# Learn more
+:::{#ref}
+:::
+[1] Description of the citizen science project in Emma Lundbergs lab:
+
+https://www.kth.se/en/aktuellt/nyheter/mapping-of-cells-and-proteins-improved-with-help-of-gamers-and-ai-1.838177
+
+[2]
+T. Luo, K. Hostetler, C. Freeman, and J. Stefaniak, ‘The power of open: benefits, barriers, and strategies for integration of open educational resources’, Open Learning: The Journal of Open, Distance and e-Learning, vol. 35, no. 2, pp. 140–158, May 2020, doi: 10.1080/02680513.2019.1677222 Links to an external site..

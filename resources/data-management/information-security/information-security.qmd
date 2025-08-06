@@ -1,0 +1,51 @@
+---
+title: Information security
+---
+# Key takeaways
+- When planning for research and drafting a data management plan, the confidentiality level of the data is an important consideration.
+- The confidentiality level affects choices in all steps of data management such as collecting, processing, storing and sharing data.
+- The confidentiality level depends on the type of data and may change over time in the research data life cycle.
+- It is also important to maintain data integrity and have a suitable level of data availability at different stages.
+
+There are some basic concepts that are good to be aware of when it comes to information security:
+
+Confidentiality - information is available for authorized individuals, entities, or processes, but not for unauthorized individuals, entities or processes.
+
+Integrity - maintaining and assuring the accuracy and completeness of data over its entire lifecycle.
+
+Availability - For any information system to serve its purpose, the information must be available when it is needed.
+
+Here we will focus on the information security classes for confidentiality, since this may differ depending on what data you have in your research process and it is important to consider the confidentiality early on. The integrity and availability are also important for the information and communication systems used, but will not be covered here. Availability is closely associated to the accessibility in [FAIR](../FAIR.qmd). 
+
+There are many different information classification systems, but here we show the confidentiality levels according to the [classification system of The Swedish Civil Contingencies Agency (MSB)](https://metodstod-informationssakerhet.msb.se/sv/utforma/klassningsmodell/)
+
+In this model the classes states a level of confidentiality that depends on how serious the consequences are if confidentiality is breached and information is subject to unauthorized access.
+
+Class 0 = no harm is caused.  Such information can be publicly available, ex. published research results including public open data.
+Class 1 = may cause limited damage / economic loss. This information should be available to a well-defined limited number of people.
+Class 2 = may cause considerable damage / economic loss. Information should be available only to a well-defined limited number of people. Extra security measures may be needed.
+Class 3 = may cause serious to disastrous damage /economic loss. Information should be available only to a well-defined limited number of people. Extra security measures are needed.
+Go through the checklist with reasons for restricted access Download checklist with reasons for restricted access again and reflect on what confidentiality level that is appropriate for the data that you collect, store, analyse and share in your research project.
+
+The confidentiality level affects all stages of data management so it affects how you set up routines and systems in the project. Information classification should be considered in the data management plan.
+
+On the research data webpages, you can find some general advice when working with sensitive data, that is data where you need to think on maintaining restricted access to the data and considering security measures during your research activities.
+
+When working with data that is confidential or data that you think may become confidential when combined with other sources, it is advisable to perform a risk assessment to evaluate the degree of confidentiality and what measures to take to avoid the risk of unauthorized access to the data. If you are unsure on what degree of confidentiality and the risks for damage that exists when managing data in your project you can get help with performing a risk assessment by contacting the IT security management centre at KTH it-smc@kth.se
+
+Assignment
+Reflection
+Ask yourself:
+
+What data should be accessed When by Whom?
+
+When you have a clear picture of how to answer that, it is easier do decide on the classification level of confidentiality. This make it easier to make choices on how to collect, store, organize and share data in the active research phase and also if it is appropriate to share data as open data or with restricted access upon publication.
+
+# Learn more
+Read more on information security at KTH (in Swedish)
+
+https://intra.kth.se/styrning/styrdokument/regler/webb-och-it-fragor-1.662166
+
+https://intra.kth.se/polopoly_fs/1.662187.1562824506!/informationsklassificering.pdf
+
+ 
