@@ -1,0 +1,871 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.42">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Confidential data - Personal information and privacy – Open Science and Research Data Management</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-28ae7222d1c5627746b78519609bb5c9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+</head>
+
+<body class="nav-sidebar docked nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Open Science and Research Data Management</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="../../index.html" aria-current="page"> 
+<span class="menu-text">Course start page</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../open-science/open-science-umbrella/open-science-umbrella.html"> 
+<span class="menu-text">Open Science</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../data-management/data-management.html"> 
+<span class="menu-text">Research data management</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../data-management/data-management.html">Research Data Management</a></li><li class="breadcrumb-item"><a href="../../data-management/information-security/information-security.html">Information security</a></li><li class="breadcrumb-item"><a href="../../data-management/information-security/confidential-data-privacy.html">Confidential data - Personal information and privacy</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Start</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Open Science</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../../open-science/open-science-umbrella/open-science-umbrella.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">The Open Science Umbrella</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../open-science/open-science-umbrella/open-access.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Open Access</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../open-science/open-science-umbrella/open-data.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Open Data</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../open-science/open-science-umbrella/open-source.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Open Source</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../open-science/open-science-umbrella/other-aspects.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Other aspects of Open Science</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../open-science/bibliometrics-research-evaluation/bibliometrics-research-evaluation.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Bibliometrics and Research Evaluation</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Research Data Management</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../data-management/data-management.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Research Data Management - section overview</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../data-management/FAIR.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">FAIR - Findable, Interoperable, Accessible &amp; Reusable</span></a>
+  </div>
+</li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../../data-management/data-management-plans/data-management-plans.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Data Management Plans</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../data-management/data-management-plans/sharing-data-at-different-stages.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Sharing data at different stages of the research data lifecycle</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../data-management/data-management-plans/balancing-open-and-restricted-access.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Balancing between open and restricted access to data</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../data-management/legal-considerations.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Legal considerations</span></a>
+  </div>
+</li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../../data-management/information-security/information-security.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Information security</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth2 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../data-management/information-security/confidential-data-privacy.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Confidential data - Personal information and privacy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../data-management/information-security/confidential-data-industry.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Confidential data - industrial collaborations</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../data-management/long-term-storage-publishing-preservation.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Long term storage, publishing, archiving and preservation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../data-management/practical-advice.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Some practical advice for data management</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../data-management/reuse-of-data.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Re-use of data</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../course-summary.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Course summary</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#key-takeaways" id="toc-key-takeaways" class="nav-link active" data-scroll-target="#key-takeaways">Key takeaways</a>
+  <ul class="collapse">
+  <li><a href="#use-case" id="toc-use-case" class="nav-link" data-scroll-target="#use-case">Use case</a></li>
+  <li><a href="#considerations-for-collaboration-projects" id="toc-considerations-for-collaboration-projects" class="nav-link" data-scroll-target="#considerations-for-collaboration-projects">Considerations for collaboration projects:</a></li>
+  </ul></li>
+  <li><a href="#assignment" id="toc-assignment" class="nav-link" data-scroll-target="#assignment">Assignment</a>
+  <ul class="collapse">
+  <li><a href="#reflection" id="toc-reflection" class="nav-link" data-scroll-target="#reflection">Reflection</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../data-management/data-management.html">Research Data Management</a></li><li class="breadcrumb-item"><a href="../../data-management/information-security/information-security.html">Information security</a></li><li class="breadcrumb-item"><a href="../../data-management/information-security/confidential-data-privacy.html">Confidential data - Personal information and privacy</a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title">Confidential data - Personal information and privacy</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="key-takeaways" class="level1">
+<h1>Key takeaways</h1>
+<ul>
+<li>The General Data Protection Regulation applies to any research processing personal information.</li>
+<li>Protecting the privacy of any individuals participating in research studies is of highest priority.</li>
+<li>Some categories of personal information is considered sensitive. For such data, extra security measures to ensure privacy are needed.</li>
+<li>Ethical review and approval is needed when research involves sensitive personal data.</li>
+<li>It is sometimes possible to anonymise or de-identify personal data, but this requires special care.</li>
+<li>Everyone involved in a project should be aware of the confidentiality level of the personal data, and know how to work with that type of information.</li>
+</ul>
+<p>When working in a research project where personal data is processed, it is important to consider how to protect the privacy of the individuals concerned. Any processing of personal data need a lawful basis and the processing should be registered at the <a href="https://www.kth.se/form/5b031985afc787f1feefe0c0">KTH register of personal data processing</a></p>
+<p>Normally the lawful basis for processing personal information in research is public interest, but if you are unsure or want to know more, check out the <a href="https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata/juridiska-aspekter-kring-forskningsdata-1.861140">KTH research data web pages</a> or <a href="https://intra.kth.se/en/anstallning/anstallningsvillkor/att-vara-statligt-an/behandling-av-person">KTH pages on GDPR</a>. If you conduct a study involving humans, or otherwise collect personal data, the persons whose information you process are called data subjects.</p>
+<p>If you collect personal data, you will need to identify who will be the data controller for collection, storage and handling of the data.</p>
+<p>A breach of confidentiality where personal information can be accessed for people without permission may present a risk of serious harm to the data subject. Since that risk depends on the type of personal data and also if the people for instance belongs to a group with higher vulnerability it’s a good idea to assess the risk and confidentiality level needed for that data.</p>
+<p>Some personal information that already before was available to the public with the consent of the data subject hardly causes any harm and thus poses minimal risk if shared in a research project, whereas other information is more privacy sensitive. If there is high risk involved that concern data subject rights and freedoms you should conduct a Data Privacy Impact Assessment (DPIA) before processing any personal data. In that case, contact the Data Protection Officer at <a href="mailto:dataskyddsombud@kth.se">dataskyddsombud@kth.se</a> before starting your study.</p>
+<p>If the information can be connected to unique individuals and is considered to be sensitive you need to apply for an ethical approval before you conduct your research. Sensitive personal data is either belonging to the special categories of personal data according to article 9 in GDPR or concerns persons where informed consent from these individuals may be problematic, such as children. There is more information on research ethics and the ethical review process on the <a href="https://intra.kth.se/forskning/overgripande-stod/etik-och-god-forskni/forskningsetik-stod-till-forskare-1.1031754">KTH research ethics page</a>.</p>
+<p>The Special categories of Sensitive personal data concerns an individual’s:</p>
+<ul>
+<li>Ethnical origin</li>
+<li>Political views</li>
+<li>Religious or philosophical convictions</li>
+<li>Membership in a Union</li>
+<li>Health</li>
+<li>Sexual life or sexual orientation</li>
+<li>Genetic information</li>
+<li>Biometric data that specifically identifies a unique person</li>
+</ul>
+<p>In the ethical approval it is important to ensure that you take appropriate measures that sufficiently minimize risks of data leakage. According to GDPR art. 32, appropriate technical and organizational measures to ensure a level of security appropriate to the risk should be taken. A more practical guide on what this means for you at KTH is under development. It is also important that all participants have given their informed consent to participate in the research study.</p>
+<p>It is recommended to consider privacy-preserving methods in the study design so that you minimize risks. How to do that may differ depending on type of study, but here we illustrate that with a use case from a KTH research project.</p>
+<section id="use-case" class="level2">
+<h2 class="anchored" data-anchor-id="use-case">Use case</h2>
+<p><a href="https://www.kth.se/profile/pahansen">Pahansen de Alwis</a>, KTH researcher at the SCI school, has together with colleagues performed studies where occupants of marine crafts responded to a survey with questions about work exposure and health. Since health information is sensitive when it can be connected to unique individuals, it was important to carefully design the study in order to ensure preservation of privacy for individuals responding to the survey. It was also necessary to apply for an ethical approval. Pahansens advice to other researchers is to start early with the application for ethical approval and that it is really good with help from someone who has knowledge of the process when drafting the application. An overview of the study design can be seen in the illustration below.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../img/preserve-privacy-design-1.jpg" class="img-fluid figure-img"></p>
+<figcaption>Preserve privacy by study design, part 1</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../img/preserve-privacy-design-2.jpg" class="img-fluid figure-img"></p>
+<figcaption>Preserve privacy by study design, part 2</figcaption>
+</figure>
+</div>
+<p>In this study, the researchers were not aware of which individual who had what respondent-id and these individuals responded to the online survey on an encrypted network and data was stored encrypted as well.</p>
+<p>When publishing results, Pahansen et al also made sure to display results from the studies as aggregated % or ratios in different tables and figures in order not to make it possible to indirectly identify unique individuals from combination of traits (gender, weight, etc. ) via backdoor identification / re-identification <span class="citation" data-cites="dealwisexposurehighperformancemarine2021"><a href="#ref-dealwisexposurehighperformancemarine2021" role="doc-biblioref">[1]</a></span>, <span class="citation" data-cites="dealwiseffectoccupationalexposure2021"><a href="#ref-dealwiseffectoccupationalexposure2021" role="doc-biblioref">[2]</a></span>, <span class="citation" data-cites="martireconstructionwebbasedquestionnaire2017"><a href="#ref-martireconstructionwebbasedquestionnaire2017" role="doc-biblioref">[3]</a></span>]. Adding more variables to your dataset will increase the probability for re-identification <span class="citation" data-cites="rocherestimatingsuccessreidentifications2019"><a href="#ref-rocherestimatingsuccessreidentifications2019" role="doc-biblioref">[4]</a></span> .</p>
+</section>
+<section id="considerations-for-collaboration-projects" class="level2">
+<h2 class="anchored" data-anchor-id="considerations-for-collaboration-projects">Considerations for collaboration projects:</h2>
+<p>Let’s reiterate that it is highly recommended to share the data management plan with everyone in the project and make sure that everyone is informed on correct data management according to plan. The challenge of working with confidential personal data in collaborations is that the personal data is shared between different organizations. It is therefore important to have proper data processing agreements (DPA’s) in place before data is shared. Contact <a href="https://intra.kth.se/forskning/kontakt/nar-du-forskar/kontakter-for-forskningsavtal-1.1291274">your local contract coordinator or the KTH legal counsel</a> for advise and assistance with drafting such an agreement. If you also think your data could be “high risk” concerning privacy of individuals, you should make a data protection impact assessment early on in your process.</p>
+<p>You can adopt different strategies for dealing with privacy-sensitive data. One option is to de-identify data before processing it (like in the Use case with Pahansen et al), thus avoiding collecting the information that identify the unique individuals.</p>
+<p>You may also consider if you want to work according to a strategy of: “Bring data to compute” or “Bring compute to data” or “Streaming data on-demand for joint processing” . In the case of bringing data to compute, personal data is transferred from one stakeholder to another so there need to be a data processing agreement signed by both stakeholders. If one stakeholder only perform computation on encrypted data without access to the personal information kept within another organization, a data processing agreement should not be necessary. In the third case, transfer of personal information may have to be regulated in a non-standard agreement.</p>
+<p>Which strategy that is best for the collaborative project depends on both the type and amount of data and the type of processing you plan for as well as resources and legal framework for different collaboration partners. So it is good to discuss strategy early on and draft a data management plan together.</p>
+<p>In the <a href="../../data-management/reuse-of-data.html">interview with Martin Isaksson</a> he mentions different privacy-preserving methods. In his research he works with user-generated privacy sensitive data from networks, information that is not appropriate to gather in one place - so here a strategy of bringing compute to data is more appropriate <span class="citation" data-cites="isakssonsecurefederatedlearning2020"><a href="#ref-isakssonsecurefederatedlearning2020" role="doc-biblioref">[5]</a></span>. In the section on re-use of data, you can also listen to how Martin describes the use of open data-sets to avoid using real user data, thus avoiding both privacy-sensitive and business-sensitive data. On the next page you can read more on dealing with confidential data in industrial collaborations.</p>
+</section>
+</section>
+<section id="assignment" class="level1">
+<h1>Assignment</h1>
+<section id="reflection" class="level2">
+<h2 class="anchored" data-anchor-id="reflection">Reflection</h2>
+<p>What type of data do you collect and analyze within your research?</p>
+<p>Will the research project collect personal data? Any of the special categories of personal data?</p>
+<p>What measures to protect privacy would be suitable in your case?</p>
+<p>What approach would be more suitable for your data - “bring data to compute”, “bring compute to data” or “streaming data for joint processing”?</p>
+<p>Learn more On anonymization of personal data: <a href="https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf">https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf</a></p>
+<p>On research ethics and personal information: See chapter 5.3.5 in <span class="citation" data-cites="vetenskapsradetgodforskningssed20242024"><a href="#ref-vetenskapsradetgodforskningssed20242024" role="doc-biblioref">[6]</a></span> https://codex.uu.se/Human+subjects+research/att-hantera-personuppgifter/</p>
+<p>On research ethics and privacy in a digital world: <a href="https://plato.stanford.edu/entries/ethics-internet-research/">https://plato.stanford.edu/entries/ethics-internet-research/</a></p>
+<p>Read more and view a template on data protection impact assessment at gdpr.eu:</p>
+<p><a href="https://gdpr.eu/data-protection-impact-assessment-template/">https://gdpr.eu/data-protection-impact-assessment-template/</a></p>
+<p>Nordic E-infrastructure report on what is needed to share health data cross-border in Nordic countries <span class="citation" data-cites="nordforskvisionnordicsecure"><a href="#ref-nordforskvisionnordicsecure" role="doc-biblioref">[7]</a></span></p>
+<div class="refs">
+
+</div>
+
+
+
+</section>
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" role="list">
+<div id="ref-dealwisexposurehighperformancemarine2021" class="csl-entry" role="listitem">
+<div class="csl-left-margin">[1] </div><div class="csl-right-inline">M. P. de Alwis, R. LoMartire, B. O. Äng, and K. Garme, <span>“Exposure aboard high-performance marine craft increases musculoskeletal pain and lowers contemporary work capacity of the occupants,”</span> <em>Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment</em>, vol. 235, no. 3, pp. 750–762, Aug. 2021, doi: <a href="https://doi.org/10.1177/1475090220981466">10.1177/1475090220981466</a>.</div>
+</div>
+<div id="ref-dealwiseffectoccupationalexposure2021" class="csl-entry" role="listitem">
+<div class="csl-left-margin">[2] </div><div class="csl-right-inline">M. P. de Alwis and K. Garme, <span>“Effect of occupational exposure to shock and vibration on health in high-performance marine craft occupants,”</span> <em>Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment</em>, vol. 235, no. 2, pp. 394–409, May 2021, doi: <a href="https://doi.org/10.1177/1475090220981187">10.1177/1475090220981187</a>.</div>
+</div>
+<div id="ref-martireconstructionwebbasedquestionnaire2017" class="csl-entry" role="listitem">
+<div class="csl-left-margin">[3] </div><div class="csl-right-inline">R. L. Martire, M. P. de Alwis, B. O. Äng, and K. Garme, <span>“Construction of a web-based questionnaire for longitudinal investigation of work exposure, musculoskeletal pain and performance impairments in high-performance marine craft populations,”</span> <em>BMJ Open</em>, vol. 7, no. 7, p. e016006, Jul. 2017, doi: <a href="https://doi.org/10.1136/bmjopen-2017-016006">10.1136/bmjopen-2017-016006</a>.</div>
+</div>
+<div id="ref-rocherestimatingsuccessreidentifications2019" class="csl-entry" role="listitem">
+<div class="csl-left-margin">[4] </div><div class="csl-right-inline">L. Rocher, J. M. Hendrickx, and Y.-A. de Montjoye, <span>“Estimating the success of re-identifications in incomplete datasets using generative models,”</span> <em>Nat Commun</em>, vol. 10, no. 1, p. 3069, Jul. 2019, doi: <a href="https://doi.org/10.1038/s41467-019-10933-3">10.1038/s41467-019-10933-3</a>.</div>
+</div>
+<div id="ref-isakssonsecurefederatedlearning2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">[5] </div><div class="csl-right-inline">M. Isaksson and K. Norrman, <span>“Secure <span>Federated Learning</span> in <span>5G Mobile Networks</span>.”</span> Accessed: Aug. 05, 2025. [Online]. Available: <a href="http://arxiv.org/abs/2004.06700">http://arxiv.org/abs/2004.06700</a></div>
+</div>
+<div id="ref-vetenskapsradetgodforskningssed20242024" class="csl-entry" role="listitem">
+<div class="csl-left-margin">[6] </div><div class="csl-right-inline">Vetenskapsrådet, <span>“God forskningssed 2024,”</span> Vetenskapsrådet, Stockholm, 2024.</div>
+</div>
+<div id="ref-nordforskvisionnordicsecure" class="csl-entry" role="listitem">
+<div class="csl-left-margin">[7] </div><div class="csl-right-inline">NordForsk, <span>“A vision of a <span>Nordic</span> secure digital infrastructure for health data: <span>The Nordic Commons</span>.”</span></div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
